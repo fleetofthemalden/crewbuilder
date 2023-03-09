@@ -1,7 +1,8 @@
 {
-  "name": "material-cra-ts",
+  "name": "CrewBuilder",
   "version": "5.0.0",
   "private": true,
+  "homepage": "http://minnick.co/crewbuilder",
   "dependencies": {
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
