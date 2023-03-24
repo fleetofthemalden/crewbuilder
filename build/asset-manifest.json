@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/crewbuilder/static/js/main.30da4584.js",
+    "index.html": "/crewbuilder/index.html",
+    "main.30da4584.js.map": "/crewbuilder/static/js/main.30da4584.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.30da4584.js"
+  ]
+}

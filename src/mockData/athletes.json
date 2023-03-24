@@ -1,0 +1,289 @@
+{
+  "rowers": [
+    {
+      "athleteId": "ath",
+      "firstName": "Generic",
+      "lastName": "Athlete",
+      "dob": "01/01/1990",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath1",
+      "firstName": "Andrew",
+      "lastName": "Row'brien",
+      "dob": "01/01/1991",
+      "sex": "M",
+      "sweep": "starboardDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath2",
+      "firstName": "Andrew",
+      "lastName": "Scullington",
+      "dob": "01/01/1983",
+      "sex": "M",
+      "sweep": "starboard",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath3",
+      "firstName": "Chris",
+      "lastName": "Rowing",
+      "dob": "01/01/1992",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath5",
+      "firstName": "Carlos",
+      "lastName": "Ergtucci",
+      "dob": "01/01/1966",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath6",
+      "firstName": "Jason",
+      "lastName": "McRace",
+      "dob": "01/01/1968",
+      "sex": "M",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+
+    {
+      "athleteId": "ath4",
+      "firstName": "Channing",
+      "lastName": "Tatum",
+      "dob": "01/01/1993",
+      "sex": "M",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath7",
+      "firstName": "Brandon",
+      "lastName": "GroundhodDay",
+      "dob": "01/01/1988",
+      "sex": "M",
+      "sweep": "port",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath8",
+      "firstName": "Brandon",
+      "lastName": "Caligula",
+      "dob": "01/01/1981",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath9",
+      "firstName": "Mike",
+      "lastName": "Spoons",
+      "dob": "01/01/1945",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath9",
+      "firstName": "Mike",
+      "lastName": "Shorts",
+      "dob": "01/01/1985",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath10",
+      "firstName": "Ethan",
+      "lastName": "Meterson",
+      "dob": "01/01/1968",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath11",
+      "firstName": "James",
+      "lastName": "Trailer",
+      "dob": "01/01/1987",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath12",
+      "firstName": "London",
+      "lastName": "Pianist",
+      "dob": "01/01/1989",
+      "sex": "M",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath13",
+      "firstName": "Al",
+      "lastName": "Chains",
+      "dob": "01/01/1944",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath14",
+      "firstName": "Chad",
+      "lastName": "Rammingspeed",
+      "dob": "01/01/1985",
+      "sex": "M",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath15",
+      "firstName": "Tim",
+      "lastName": "Race",
+      "dob": "01/01/1980",
+      "sex": "M",
+      "sweep": "starboardDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath21",
+      "firstName": "Andrea",
+      "lastName": "Berlin",
+      "dob": "01/01/1969",
+      "sex": "F",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath22",
+      "firstName": "Caryn",
+      "lastName": "Septber",
+      "dob": "01/01/19462",
+      "sex": "F",
+      "sweep": "starboardDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath23",
+      "firstName": "Hayley",
+      "lastName": "McCoxedlast",
+      "dob": "01/01/1991",
+      "sex": "F",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath24",
+      "firstName": "Sarah",
+      "lastName": "Robbingsome-Shorts",
+      "dob": "01/01/1985",
+      "sex": "F",
+      "sweep": "portDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath25",
+      "firstName": "Mary",
+      "lastName": "Glacier",
+      "dob": "01/01/1960",
+      "sex": "F",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath26",
+      "firstName": "Wendy",
+      "lastName": "Azores",
+      "dob": "01/01/1969",
+      "sex": "F",
+      "sweep": "starboard",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath19",
+      "firstName": "Martin",
+      "lastName": "Germanmann",
+      "dob": "01/01/1987",
+      "sex": "M",
+      "sweep": "starboard",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath27",
+      "firstName": "Amy",
+      "lastName": "Casket",
+      "dob": "01/01/1959",
+      "sex": "F",
+      "sweep": "starboardDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath28",
+      "firstName": "Conztanze",
+      "lastName": "Whatalonglastname",
+      "dob": "01/01/1965",
+      "sex": "F",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath29",
+      "firstName": "Maureen",
+      "lastName": "Problems",
+      "displayName": "Moe",
+      "dob": "01/01/1955",
+      "sex": "F",
+      "sweep": "port",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath30",
+      "firstName": "Dixon",
+      "lastName": "Around",
+      "dob": "01/01/1993",
+      "sex": "M",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath31",
+      "firstName": "Henry",
+      "lastName": "Floatsa",
+      "dob": "01/01/1997",
+      "sex": "M",
+      "sweep": "starboardDominant",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath32",
+      "firstName": "Stephanie",
+      "lastName": "Coxswains",
+      "dob": "01/01/1995",
+      "sex": "F",
+      "sweep": "bi",
+      "benchmarks": []
+    },
+    {
+      "athleteId": "ath33",
+      "firstName": "Alexis",
+      "lastName": "Aeiou",
+      "dob": "01/01/1994",
+      "sex": "F",
+      "sweep": "bi",
+      "benchmarks": []
+    }
+  ]
+}
+
+
+
+  
