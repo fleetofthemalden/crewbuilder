@@ -4,6 +4,7 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
 
+import Athlete from 'components/Athlete/Athlete';
 import AthleteFilterBar from 'components/AthleteFilterBar/AthleteFilterBar';
 
 function Copyright() {
@@ -23,6 +24,7 @@ export default function App() {
     <>
       <AthleteFilterBar />
       <Container maxWidth={'sm'}>
+        <Athlete />
         <Box sx={{ my: 4 }}>
           <Typography variant="h4" component="h1" gutterBottom>
             Some content will go here
