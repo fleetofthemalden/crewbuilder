@@ -14,6 +14,34 @@ import ShareIcon from '@mui/icons-material/Share';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 
+import { Athlete } from 'types/athlete';
+
+const AthleteCard: React.FC<Athlete> = ({ 
+  firstName,
+  lastName,
+  displayName,
+}) => {
+  const athleteName = displayName || `${firstName.slice(0,1)}. ${lastName}`;
+  return (
+    <Card sx={{ maxWidth: 345 }}>
+      <CardHeader
+        avatar={
+          <Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">
+            P
+          </Avatar>
+        }
+        action={
+          <IconButton aria-label="settings">
+            <MoreVertIcon />
+          </IconButton>
+        }
+        title={athleteName}
+        subheader="September 14, 2016"
+      />
+    </Card>
+  );
+}
+
 interface ExpandMoreProps extends IconButtonProps {
   expand: boolean;
 }
@@ -29,7 +57,7 @@ const ExpandMore = styled((props: ExpandMoreProps) => {
   }),
 }));
 
-export default function Recipe() {
+export function Recipe() {
   const [expanded, setExpanded] = React.useState(false);
 
   const handleExpandClick = () => {
@@ -107,3 +135,5 @@ export default function Recipe() {
     </Card>
   );
 }
+
+export default AthleteCard;

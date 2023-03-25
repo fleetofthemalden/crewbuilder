@@ -16,4 +16,5 @@ export type Benchmark = {
   time: number;
   distance: number;
   benchmarkId: string;
+  weight: number;
 }

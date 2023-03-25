@@ -4,8 +4,11 @@ import Typography from '@mui/material/Typography';
 import Box from '@mui/material/Box';
 import Link from '@mui/material/Link';
 
-import Athlete from 'components/Athlete/Athlete';
+import AthleteCard from 'components/Athlete/Athlete';
 import AthleteFilterBar from 'components/AthleteFilterBar/AthleteFilterBar';
+import { Athlete } from 'types/athlete';
+import athletesList from 'mockData/athletes.json';
+const rowers = athletesList.rowers.slice(0, 3);
 
 function Copyright() {
   return (
@@ -20,11 +23,12 @@ function Copyright() {
 }
 
 export default function App() {
+  console.log({ rowers}); // DM debug
   return (
     <>
       <AthleteFilterBar />
       <Container maxWidth={'sm'}>
-        <Athlete />
+        {rowers.map((ath) => <AthleteCard {...ath as Athlete} key={`athCard_${ath.athleteId}`} />)}
         <Box sx={{ my: 4 }}>
           <Typography variant="h4" component="h1" gutterBottom>
             Some content will go here
