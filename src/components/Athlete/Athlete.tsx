@@ -1,5 +1,6 @@
 import * as React from 'react';
-import { styled } from '@mui/material/styles';
+import styled from '@emotion/styled';
+import { styled as muiStyled } from '@mui/material/styles';
 import Card from '@mui/material/Card';
 import CardHeader from '@mui/material/CardHeader';
 import CardContent from '@mui/material/CardContent';
@@ -14,12 +15,55 @@ import ShareIcon from '@mui/icons-material/Share';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 
-import { Athlete } from 'types/athlete';
+import { Athlete, SweepPreference } from 'types/athlete';
+
+const SweptualityIndicatorContainer = styled.span`
+  display: inline-block;
+  width: 30px;
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  font-weight: bold;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  background-color: transparent;
+`;
+
+const PortText = styled.span`
+  color: red;
+`;
+
+const StarboardText = styled.span`
+  color: green;
+`;
+
+const SweepPreferenceIndicator: React.FC<{ sweep: SweepPreference }> = ({ sweep }) => {
+  const nonDomText = sweep.includes('Dominant') ? ' +' : '';
+  const pText = !sweep.includes('starboard') ? (
+    <>
+      <PortText>P</PortText>
+      <StarboardText>{nonDomText}</StarboardText>
+    </>
+  ) : undefined;
+  const sText = !sweep.includes('port') ? (
+    <>
+      <StarboardText>S</StarboardText>
+      <PortText>{nonDomText}</PortText>
+    </>
+  ) : undefined
+  return (
+    <SweptualityIndicatorContainer>
+      {pText}{sweep === 'bi' ? ' ' : ''}{sText}
+    </SweptualityIndicatorContainer>
+  );
+}
+
 
 const AthleteCard: React.FC<Athlete> = ({ 
   firstName,
   lastName,
   displayName,
+  sweep,
 }) => {
   const athleteName = displayName || `${firstName.slice(0,1)}. ${lastName}`;
   return (
@@ -36,7 +80,7 @@ const AthleteCard: React.FC<Athlete> = ({
           </IconButton>
         }
         title={athleteName}
-        subheader="September 14, 2016"
+        subheader={<SweepPreferenceIndicator sweep={sweep}/>}
       />
     </Card>
   );
@@ -46,7 +90,7 @@ interface ExpandMoreProps extends IconButtonProps {
   expand: boolean;
 }
 
-const ExpandMore = styled((props: ExpandMoreProps) => {
+const ExpandMore = muiStyled((props: ExpandMoreProps) => {
   const { expand, ...other } = props;
   return <IconButton {...other} />;
 })(({ theme, expand }) => ({
