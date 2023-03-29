@@ -1,4 +1,5 @@
 import * as React from 'react';
+import { DateTime } from 'luxon';
 import styled from '@emotion/styled';
 import { styled as muiStyled } from '@mui/material/styles';
 import Card from '@mui/material/Card';
@@ -19,18 +20,20 @@ import { Athlete, SweepPreference } from 'types/athlete';
 
 const SweptualityIndicatorContainer = styled.span`
   display: inline-block;
-  width: 30px;
-  color: black;
+  border: 1px solid gray;
+  border-radius: 2px;
+  width: 34px;
+  color: gray;
   text-align: center;
   font-size: 12px;
   font-weight: bold;
-  padding-top: 2px;
-  padding-bottom: 2px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   background-color: transparent;
 `;
 
 const PortText = styled.span`
-  color: red;
+  color: #E7203B;
 `;
 
 const StarboardText = styled.span`
@@ -38,7 +41,7 @@ const StarboardText = styled.span`
 `;
 
 const SweepPreferenceIndicator: React.FC<{ sweep: SweepPreference }> = ({ sweep }) => {
-  const nonDomText = sweep.includes('Dominant') ? ' +' : '';
+  const nonDomText = sweep.includes('Dominant') ? `  +` : '';
   const pText = !sweep.includes('starboard') ? (
     <>
       <PortText>P</PortText>
@@ -53,10 +56,56 @@ const SweepPreferenceIndicator: React.FC<{ sweep: SweepPreference }> = ({ sweep 
   ) : undefined
   return (
     <SweptualityIndicatorContainer>
-      {pText}{sweep === 'bi' ? ' ' : ''}{sText}
+      {pText}{sweep === 'bi' ? ' | ' : ''}{sText}
     </SweptualityIndicatorContainer>
   );
-}
+};
+
+const getRowingAge = (dob: Athlete['dob']) => {
+  const thisYear = DateTime.now().year;
+  const birthYear = DateTime.fromFormat(dob, 'MM/dd/yyyy').year;
+  console.log({ thisYear, birthYear })
+  return thisYear - birthYear;
+};
+
+const getRowingAgeClassification = (rowingAge: number) => {
+  if (rowingAge < 15) {
+    return 'U15';
+  } else if (rowingAge < 17) {
+    return 'U17';
+  } else if (rowingAge < 19) {
+    return 'U19';
+  } else if (rowingAge < 21) {
+    return 'U21';
+  } else if (rowingAge < 23) {
+    return 'U23';
+  } else if (rowingAge < 27) {
+    return 'AA';
+  } else if (rowingAge < 36) {
+    return 'A';
+  } else if (rowingAge < 43) {
+    return 'B';
+  } else if (rowingAge < 50) {
+    return 'C';
+  } else if (rowingAge < 55) {
+    return 'D';
+  } else if (rowingAge < 60) {
+    return 'E';
+  } else if (rowingAge < 65) {
+    return 'D';
+  } else if (rowingAge < 70) {
+    return 'E';
+  } else if (rowingAge < 75) {
+    return 'D';
+  } else if (rowingAge < 80) {
+    return 'E';
+  } else if (rowingAge < 85) {
+    return 'D';
+  } else if (rowingAge >= 85) {
+    return 'K';
+  }
+  return '?'
+};
 
 
 const AthleteCard: React.FC<Athlete> = ({ 
@@ -64,14 +113,17 @@ const AthleteCard: React.FC<Athlete> = ({
   lastName,
   displayName,
   sweep,
+  dob,
+  sex,
 }) => {
-  const athleteName = displayName || `${firstName.slice(0,1)}. ${lastName}`;
+  const athleteName = displayName || `${firstName} ${lastName}`;
+  const rowingAge = getRowingAge(dob);
   return (
     <Card sx={{ maxWidth: 345 }}>
       <CardHeader
         avatar={
-          <Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">
-            P
+          <Avatar aria-label="recipe">
+            {firstName[0] + lastName[0]}
           </Avatar>
         }
         action={
@@ -80,7 +132,12 @@ const AthleteCard: React.FC<Athlete> = ({
           </IconButton>
         }
         title={athleteName}
-        subheader={<SweepPreferenceIndicator sweep={sweep}/>}
+        subheader={
+          <>
+            {`S: ${sex} | A: ${rowingAge} (${getRowingAgeClassification(rowingAge)}) `}
+            <SweepPreferenceIndicator sweep={sweep}/>
+          </>
+        }
       />
     </Card>
   );

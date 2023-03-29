@@ -8,8 +8,7 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "^5.11.11",
     "@mui/material": "latest",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
+    "luxon": "^3.3.0",
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest"
@@ -40,6 +39,9 @@
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.56.0",
     "@typescript-eslint/parser": "^5.56.0",
+    "@types/luxon": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
     "eslint": "^8.36.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-config-standard-with-typescript": "^34.0.1",
