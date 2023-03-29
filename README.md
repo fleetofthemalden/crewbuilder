@@ -10,7 +10,7 @@ WIP MVP at [minnick.co/crewbuilder](https://minnick.co/crewbuilder)
     - [x] P/S indicator
       - [ ] Alt Designs
     - [x] Name Display
-    - [ ] Sex, Rowing Age display
+    - [x] Sex, Rowing Age display
     - [ ] Benchmark speed indicator
     - [ ] Novice Indicator
     - [ ] Lightweight indicator
