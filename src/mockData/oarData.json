@@ -1,0 +1,3986 @@
+[
+  {
+    "name": "612 Endurance",
+    "city": "Minneapolis",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/612Endurance.png",
+    "websiteUrl": "http://612endurance.com/"
+  },
+  {
+    "name": "Advanced Community Rowing Association",
+    "city": "Nyack",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AdvancedCommunityRA.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Adventure Out!",
+    "city": "Pittsford",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AdventureOut.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Alaska Midnight Sun Rowing Association",
+    "city": "Soldotna",
+    "state": "AK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AlaskaMidnightSunRA.png",
+    "websiteUrl": "http://www.alaskamidnightsunrow.com/"
+  },
+  {
+    "name": "Albany Rowing Center",
+    "city": "Albany",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AlbanyRC.png",
+    "websiteUrl": "http://www.albanyrowingcenter.org/"
+  },
+  {
+    "name": "Alexandria Community Rowing",
+    "city": "Alexandria",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AlexandriaCommunity.png",
+    "websiteUrl": "http://www.rowalexandria.com/"
+  },
+  {
+    "name": "All-American Rowing Camp, LLC",
+    "city": "Oak Ridge",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.allamericanrowingcamp.com/"
+  },
+  {
+    "name": "Allatoona Rowing Association",
+    "city": "Woodstock",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AllatoonaRA.png",
+    "websiteUrl": "https://allatoonarowing.org/"
+  },
+  {
+    "name": "Alliance Rowing Club of Illinois",
+    "city": "Wilmette",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ARCIllinois.png",
+    "websiteUrl": "http://www.allrow.org/"
+  },
+  {
+    "name": "Amoskeag Rowing Club",
+    "city": "Manchester",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AmoskeagRC.png",
+    "websiteUrl": "http://www.amoskeagrowing.org/"
+  },
+  {
+    "name": "Anacostia Community Boathouse",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AnacostiaCommunityBoathouse.png",
+    "websiteUrl": "http://www.anacostiaboathouse.org/"
+  },
+  {
+    "name": "Anchorage Rowing Association",
+    "city": "Anchorage",
+    "state": "AK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AnchorageRA.png",
+    "websiteUrl": "http://www.anchoragerowing.com/"
+  },
+  {
+    "name": "Ancient &amp; Mysterious Order of the Pink Tick",
+    "city": "Tallahassee",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AncientMysteriousOrderPinkTick.png",
+    "websiteUrl": "mailto:hundboy@gmail.com"
+  },
+  {
+    "name": "Ancient Mariners Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AncientMarinersRC.png",
+    "websiteUrl": "http://www.pocockrowingcenter.org/private.html"
+  },
+  {
+    "name": "Andover Rowing Club",
+    "city": "Andover",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AndoverRC.png",
+    "websiteUrl": "http://www.rowandover.org/"
+  },
+  {
+    "name": "Angry Fish Rowing Club",
+    "city": "Albany",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AngryFishRC.png",
+    "websiteUrl": "http://abysshole.com/"
+  },
+  {
+    "name": "Ann Arbor Rowing Club",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AnnArborRC.png",
+    "websiteUrl": "http://www.a2crew.com/"
+  },
+  {
+    "name": "Annapolis Rowing Club",
+    "city": "Annapolis",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AnnapolisRC.png",
+    "websiteUrl": "http://www.annapolisrowingclub.com/"
+  },
+  {
+    "name": "Aqueduct Rowing Club",
+    "city": "Niskayuna",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Red.png",
+    "websiteUrl": "http://www.aqueductrowingclub.com/"
+  },
+  {
+    "name": "Arizona Outlaws",
+    "city": "Tempe",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ArizonaOutlaws.png",
+    "websiteUrl": "http://www.arizonaoutlaws.org/"
+  },
+  {
+    "name": "Army Rowing Association (West Point Alum)",
+    "city": "West Point",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/Army.png",
+    "websiteUrl": "https://www.westpointaog.org/"
+  },
+  {
+    "name": "Asheville Rowing Club",
+    "city": "Asheville",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.ashevillerowing.org/"
+  },
+  {
+    "name": "Athletes Without Limits",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AthletesWithoutLimits.png",
+    "websiteUrl": "http://www.athleteswithoutlimits.org/"
+  },
+  {
+    "name": "Atlanta Rowing Club",
+    "city": "Atlanta",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AtlantaRC.png",
+    "websiteUrl": "http://www.atlantarow.org/"
+  },
+  {
+    "name": "Atlantic County Rowing Association",
+    "city": "Mays Landing",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AtlanticCountyRA.png",
+    "websiteUrl": "http://www.eteamz.com/acra/"
+  },
+  {
+    "name": "Atomic Rowing | Oak Ridge Rowing Association",
+    "city": "Oak Ridge",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/AtomicRowing.png",
+    "websiteUrl": "http://www.orra.org/"
+  },
+  {
+    "name": "Augusta Rowing Club",
+    "city": "Augusta",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AugustaRC.png",
+    "websiteUrl": "http://www.augustarowingclub.org/"
+  },
+  {
+    "name": "Austin Rowing Club",
+    "city": "Austin",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.austinrowing.org/"
+  },
+  {
+    "name": "Avalon Rowing Club",
+    "city": "Various",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AvalonRC.png",
+    "websiteUrl": "http://avalonrowingclub.com/"
+  },
+  {
+    "name": "Baboosic Lake Rowing Club",
+    "city": "Amherst",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/SouheganCrewClub.png",
+    "websiteUrl": "http://www.baboosiclakerowing.org/"
+  },
+  {
+    "name": "Bachelors Barge Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Bachelors.png",
+    "websiteUrl": "http://www.bachelorsbargeclub.org/"
+  },
+  {
+    "name": "Badger Crew",
+    "city": "Larchmont",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BadgerSwimClub_NY.png",
+    "websiteUrl": "http://www.badgersc.com/"
+  },
+  {
+    "name": "Bainbridge Island Rowing",
+    "city": "Bainbridge Island",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BainbridgeIslandRC.png",
+    "websiteUrl": "http://www.bainbridgerowing.org/"
+  },
+  {
+    "name": "Bair Island Aquatic Center",
+    "city": "Redwood City",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BairIslandAC.png",
+    "websiteUrl": "http://www.gobair.org/"
+  },
+  {
+    "name": "Baltimore Rowing Club",
+    "city": "Baltimore",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BaltimoreRC.png",
+    "websiteUrl": "http://www.baltimorerowing.org/"
+  },
+  {
+    "name": "Bantam Boat Club",
+    "city": "Hartford",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/TrinityCollege_CT_Men.png",
+    "websiteUrl": "http://www.trinityrowing.com/"
+  },
+  {
+    "name": "Bare Cove Boat Club",
+    "city": "Hingham",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BareCoveBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Barnstable Rowing Club",
+    "city": "Centerville",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BarnstableRC.png",
+    "websiteUrl": "http://www.barnstablerowing.org/"
+  },
+  {
+    "name": "Bay Area Rowing Club of Houston",
+    "city": "Houston",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BARCHouston.png",
+    "websiteUrl": "http://www.barchouston.org/"
+  },
+  {
+    "name": "Bay City Rowing Club",
+    "city": "Bay City",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BayCityRC.png",
+    "websiteUrl": "http://www.baycityrowing.org/"
+  },
+  {
+    "name": "Bear Republic Boat Club",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BearRepublicBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Beat Cancer Boat Club",
+    "city": "Los Gatos",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BeatCancerBC.png",
+    "websiteUrl": "http://beatcancerboatclub.com/"
+  },
+  {
+    "name": "Beaufort Rowing Club",
+    "city": "Beaufort",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BeaufortRC.png",
+    "websiteUrl": "http://www.beaufortrowingclub.org/"
+  },
+  {
+    "name": "Belen Community Rowing Club",
+    "city": "Miami",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BelenCommunityRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Belmont Rowing Center",
+    "city": "Belmont",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BelmontRC.png",
+    "websiteUrl": "https://www.belmontrowingcenter.org/"
+  },
+  {
+    "name": "Bergen County Rowing Academy",
+    "city": "Teaneck",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BergenCountyRA.png",
+    "websiteUrl": "http://www.bcrowingacademy.org/"
+  },
+  {
+    "name": "Berkeley Paddling &amp; Rowing Club",
+    "city": "Berkeley",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BerkeleyRC.png",
+    "websiteUrl": "http://www.berkeleyrowingclub.org/"
+  },
+  {
+    "name": "Berkshire Rowing and Sculling Society (BRASS)",
+    "city": "Pittsfield",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BRASS.png",
+    "websiteUrl": "http://berkshirerowing.com/"
+  },
+  {
+    "name": "Berry Hill Boat Club",
+    "city": "East Syracuse",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BerryHillBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Big Chief Boat Club",
+    "city": "Southampton",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BigChiefBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Birmingham Rowing Club",
+    "city": "Birmingham",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BirminghamRC.png",
+    "websiteUrl": "http://www.birminghamrowingclub.org/"
+  },
+  {
+    "name": "Black Swamp Rowing",
+    "city": "Whitehouse",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BlackSwampRowing.png",
+    "websiteUrl": "https://www.facebook.com/bluepriderowing"
+  },
+  {
+    "name": "Black Warrior Rowing Club",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BlackWarriorRC.png",
+    "websiteUrl": "http://www.blackwarriorrowingclub.com/"
+  },
+  {
+    "name": "Blood Street Sculls",
+    "city": "Old Lyme",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BloodStreetSculls.png",
+    "websiteUrl": "http://www.oldlymerowing.org/bloodstreetsculls.html"
+  },
+  {
+    "name": "Boston University Community Rowing",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/BostonU.png",
+    "websiteUrl": "http://www.bu.edu/fitrec/programs/noncredit/rowing.shtml"
+  },
+  {
+    "name": "Boulder Community Rowing",
+    "city": "Boulder",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BoulderCommunityRowing.png",
+    "websiteUrl": "http://www.boulderrowing.com/"
+  },
+  {
+    "name": "Breast Cancer Survivor's Rowing Team of Central Ohio",
+    "city": "Westerville",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowPinkOhio.png",
+    "websiteUrl": "http://www.rowpinkohio.org/"
+  },
+  {
+    "name": "Bucks County Rowing Association",
+    "city": "Middletown",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BucksCountyRA.png",
+    "websiteUrl": "http://buckscountyrowing.com/blog/"
+  },
+  {
+    "name": "Buffalo Bayou Rowing Center",
+    "city": "Houston",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BuffaloBayouRC.png",
+    "websiteUrl": "http://www.buffalobayourc.org/"
+  },
+  {
+    "name": "Buffalo River Rowing Club",
+    "city": "Buffalo",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BuffaloRiverRC.png",
+    "websiteUrl": "https://www.rowbuffalo.com/page/show/4658347-brrc-masters"
+  },
+  {
+    "name": "Bull Run Rowers",
+    "city": "Clifton",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/LakeBraddockHS_VA.png",
+    "websiteUrl": "https://www.facebook.com/BullRunRowers/"
+  },
+  {
+    "name": "Burton Beach Rowing Club",
+    "city": "Vashon",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BurtonBeachRC.png",
+    "websiteUrl": "https://www.facebook.com/BurtonVashon/"
+  },
+  {
+    "name": "Bushwood Country Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/BushwoodCC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "California Rowing Club",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CaliforniaRC.png",
+    "websiteUrl": "http://californiarowingclub.com/"
+  },
+  {
+    "name": "California Yacht Club",
+    "city": "Marina del Rey",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CaliforniaYachtClub.png",
+    "websiteUrl": "http://www.calyachtclub.com/cms/index.cfm?mainid=2&vNavID=12&vSubNavID=0"
+  },
+  {
+    "name": "Caloosa Coast Rowing Club",
+    "city": "Cape Coral",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CaloosaCoastRC.png",
+    "websiteUrl": "http://rowccrc.org/"
+  },
+  {
+    "name": "Cambridge Boat Club",
+    "city": "Cambridge",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CambridgeBC_MA.png",
+    "websiteUrl": "http://www.cambridge-boat-club.org/"
+  },
+  {
+    "name": "Camp Randall Rowing Club",
+    "city": "Madison",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CampRandall.png",
+    "websiteUrl": "http://www.camprandallrc.org/"
+  },
+  {
+    "name": "Cape and Islands Rowing Association",
+    "city": "Harwich",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/CapeCodYouthRowing.png",
+    "websiteUrl": "http://capeandislandsrowing.org/"
+  },
+  {
+    "name": "Cape Cod Masters Rowing",
+    "city": "Harwich",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/CapeCodYouthRowing.png",
+    "websiteUrl": "https://spark.adobe.com/page/PIS93DcpICkLI/"
+  },
+  {
+    "name": "Cape Cod Rowing",
+    "city": "West Hyannisport",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CapeCod.png",
+    "websiteUrl": "http://www.capecodrowing.org/"
+  },
+  {
+    "name": "Cape Fear River Rowing Club",
+    "city": "Wilmington",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CapeFearRiverRC.png",
+    "websiteUrl": "http://www.capefearriverrowingclub.com/"
+  },
+  {
+    "name": "Capital Rowing Club",
+    "city": "Washington",
+    "state": "D.C.",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CapitalRC.png",
+    "websiteUrl": "http://www.capitalrowing.org/"
+  },
+  {
+    "name": "Carnegie Lake Rowing Association",
+    "city": "Princeton",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CarnegieLakeRA.png",
+    "websiteUrl": "http://www.clra.com/"
+  },
+  {
+    "name": "Carolina Masters",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CarolinaMasters.png",
+    "websiteUrl": "http://www.unc.edu/~guogas/crew/"
+  },
+  {
+    "name": "Cascadilla Boat Club",
+    "city": "Ithaca",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CascadillaBC.png",
+    "websiteUrl": "http://www.cascadillaboatclub.org/"
+  },
+  {
+    "name": "Catawba Yacht Club",
+    "city": "Charlotte",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.catawbayc.org/WhoWeAreRow.html"
+  },
+  {
+    "name": "Cazenovia Rowing Club",
+    "city": "Cazenovia",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CazenoviaRC.png",
+    "websiteUrl": "http://cazrow.org/"
+  },
+  {
+    "name": "Central Pennsylvania Rowing Association",
+    "city": "Shamokin Dam",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CentralPARA.png",
+    "websiteUrl": "http://www.rowpa.org/"
+  },
+  {
+    "name": "CHaOS Rowing",
+    "city": "Apex",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CHaOS_Rowing.png",
+    "websiteUrl": "http://www.chaosrowing.org/"
+  },
+  {
+    "name": "Charles River Scullers",
+    "city": "Cambridge",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CharlesRiverScullers.png",
+    "websiteUrl": "http://www.charlesriverscullers.com/"
+  },
+  {
+    "name": "Charleston Community Rowing Club",
+    "city": "Charleston",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CharlestonCommunityRC.png",
+    "websiteUrl": "http://community.cofccrew.org/"
+  },
+  {
+    "name": "Charleston Rowing Club",
+    "city": "Charleston",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CharlestonRC.png",
+    "websiteUrl": "http://www.charlestonrowing.com/"
+  },
+  {
+    "name": "Charlotte Rowing Club",
+    "city": "Tega Cay",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CharlotteRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Chatham Area Rowing Association",
+    "city": "Savannah",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChathamAreaRA.png",
+    "websiteUrl": "http://www.rowsavannah.com/"
+  },
+  {
+    "name": "Chautauqua Lake Rowing Association",
+    "city": "Jamestown",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChautauquaLakeRA.png",
+    "websiteUrl": "http://www.rowchautauqua.org/"
+  },
+  {
+    "name": "Chelsea Boat Club",
+    "city": "Norwich",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChelseaBC.png",
+    "websiteUrl": "http://www.chelseaboatclub.com/"
+  },
+  {
+    "name": "Chester River Rowing Club",
+    "city": "Chestertown",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChesterRiverRC.png",
+    "websiteUrl": "http://www.chesterriverrowingclub.com/"
+  },
+  {
+    "name": "Chicago Community Sculling",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChicagoCommunitySculling.png",
+    "websiteUrl": "https://www.chicagocommunitysculling.org/"
+  },
+  {
+    "name": "Chicago River Rowing &amp; Paddling Center",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChicagoRiver.png",
+    "websiteUrl": "http://www.chicagorowing.org/"
+  },
+  {
+    "name": "Chicago Rowing Center",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CRC.png",
+    "websiteUrl": "http://www.rowchicago.org/"
+  },
+  {
+    "name": "Chicago Rowing Union",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.chicagorowingunion.org/"
+  },
+  {
+    "name": "Chinook Performance Racing",
+    "city": "",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ChinookPerformanceRacing.png",
+    "websiteUrl": "http://www.chinookperformanceracing.org/"
+  },
+  {
+    "name": "Cimarron Rowing Club",
+    "city": "Lake Elmo",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CimarronRC.png",
+    "websiteUrl": "https://www.facebook.com/groups/CimarronRowing/"
+  },
+  {
+    "name": "Cincinnati Rowing Club",
+    "city": "Cincinnati",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CincinnatiRC.png",
+    "websiteUrl": "http://www.cincinnatirowing.com/"
+  },
+  {
+    "name": "Clam Island Rowing",
+    "city": "Silverdale",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ClamIslandRowing.png",
+    "websiteUrl": "http://www.clamislandrowing.com/"
+  },
+  {
+    "name": "Cleveland Association of Adaptive Rowers",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CAAR.png",
+    "websiteUrl": "https://www.facebook.com/ClevelandAdaptiveRowers"
+  },
+  {
+    "name": "Cleveland Rowing Foundation",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ClevelandRowingFoundation.png",
+    "websiteUrl": "http://www.clevelandrows.org/"
+  },
+  {
+    "name": "Clinton Rowing Club",
+    "city": "Clinton",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ClintonRC.png",
+    "websiteUrl": "http://clintonrowingclub.com/"
+  },
+  {
+    "name": "Cloanthus Rowing Club",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CloanthusRC.png",
+    "websiteUrl": "http://www.chicagotrainingcenter.org/"
+  },
+  {
+    "name": "Coeur d'Alene Rowing Association ",
+    "city": "Coeur d'Alene",
+    "state": "ID",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CoeurdAleneRC.png",
+    "websiteUrl": "http://www.cdarowing.org/"
+  },
+  {
+    "name": "College Boat Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/UPenn.png",
+    "websiteUrl": "http://collegeboatclub.com/"
+  },
+  {
+    "name": "College Club Seattle",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CollegeClubSeattle.png",
+    "websiteUrl": "http://www.collegeclubseattle.com/"
+  },
+  {
+    "name": "Coastal Virginia Community Rowing",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Orange.png",
+    "websiteUrl": "https://www.cvcrowing.org/"
+  },
+  {
+    "name": "Colorado Rowing Camp",
+    "city": "Breckenridge",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ColoradoRowingCamp.png",
+    "websiteUrl": "http://coloradorowing.com/"
+  },
+  {
+    "name": "Columbia Rowing Club",
+    "city": "Columbia",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ColumbiaRC.png",
+    "websiteUrl": "http://www.columbiarowingclub.com/"
+  },
+  {
+    "name": "Commencement Bay Rowing Club",
+    "city": "Lakewood",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CommencementBayRC.png",
+    "websiteUrl": "http://www.combayrow.net/"
+  },
+  {
+    "name": "Commonwealth Rowing Club",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CommonwealthRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Community Rowing, Inc.",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CRI.png",
+    "websiteUrl": "http://www.communityrowing.org/"
+  },
+  {
+    "name": "Compote Rowing Association",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CompoteRA.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Conibear Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ConibearRC.png",
+    "websiteUrl": "http://www.conibearrowing.org/"
+  },
+  {
+    "name": "Conshohocken Rowing Center",
+    "city": "Conshohocken",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/White.png",
+    "websiteUrl": "http://www.conshyrow.com/"
+  },
+  {
+    "name": "Cooper Rowing Club",
+    "city": "Pennsauken",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CooperRC.png",
+    "websiteUrl": "http://cooperrowingclub.org/"
+  },
+  {
+    "name": "Cortlandt Community Rowing Association",
+    "city": "Verplanck",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CortlandtCommunityRA.png",
+    "websiteUrl": "http://cortlandtrowing.com/"
+  },
+  {
+    "name": "Corvallis Rowing Club",
+    "city": "Corvallis",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CorvallisRC.png",
+    "websiteUrl": "http://www.corvallisrowingclub.org/"
+  },
+  {
+    "name": "Coventry Lake Community Rowing",
+    "city": "Coventry",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CoventryLakeCommunityRowing.png",
+    "websiteUrl": "http://www.coventrylakerowing.com/"
+  },
+  {
+    "name": "Craftsbury Sculling Center",
+    "city": "Craftsbury Common",
+    "state": "VT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CraftsburyScullingCenter.png",
+    "websiteUrl": "http://www.craftsbury.com/"
+  },
+  {
+    "name": "Crescent Boat Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Crescent.png",
+    "websiteUrl": "http://www.boathouserow.org/clubs/crescent.html"
+  },
+  {
+    "name": "Crescent City Rowing and Paddling Club",
+    "city": "New Orleans",
+    "state": "LA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CrescentCityRowing.png",
+    "websiteUrl": "http://crescentcityclub.com/"
+  },
+  {
+    "name": "Crew Club of Rutgers University Alumni",
+    "city": "Camden",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/Rutgers_Camden.png",
+    "websiteUrl": "http://www.alumni.rutgers.edu/s/896/2016/events-details.aspx?sid=896&gid=1&pgid=1294&cid=2738&ecid=2738&crid=0&calpgid=1376&calcid=2833"
+  },
+  {
+    "name": "CREW by True Rowing Inc.",
+    "city": "Cambridge",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CREWTrueRowing.png",
+    "websiteUrl": "https://www.truerowing.com/"
+  },
+  {
+    "name": "Crystal Lake Rowing Club",
+    "city": "Crystal Lake",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/CrystalLakeRC.png",
+    "websiteUrl": "http://crystallakerowing.org/"
+  },
+  {
+    "name": "Dallas Rowing Club",
+    "city": "Dallas",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DallasRC.png",
+    "websiteUrl": "http://www.dallasrowingclub.org/"
+  },
+  {
+    "name": "Dayton Boat Club",
+    "city": "West Carrollton",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DaytonBC.png",
+    "websiteUrl": "http://www.daytonboatclub.org/"
+  },
+  {
+    "name": "D.C. Strokes Rowing Club",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DCStrokes.png",
+    "websiteUrl": "http://www.dcstrokes.org/"
+  },
+  {
+    "name": "Deep Water Rowing Association",
+    "city": "Stockton",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Orange.png",
+    "websiteUrl": "https://www.facebook.com/DeepWaterRowing/"
+  },
+  {
+    "name": "Delaware River Rowing Club",
+    "city": "Burlington",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DelawareRiverRC.png",
+    "websiteUrl": "https://sites.google.com/delawareriverrowingclub.org/public"
+  },
+  {
+    "name": "Denver Boat Club",
+    "city": "Denver",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DenverBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Des Moines Rowing Club",
+    "city": "Des Moines",
+    "state": "IA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.desmoinesrowing.org/"
+  },
+  {
+    "name": "Detroit Boat Club",
+    "city": "Detroit",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DetroitBC.png",
+    "websiteUrl": "http://www.detroitboatclubcrew.com/"
+  },
+  {
+    "name": "Detroit Waterfront Rowing Association",
+    "city": "Grosse Pointe",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DWRA.png",
+    "websiteUrl": "http://www.dwra.org/"
+  },
+  {
+    "name": "Dolphin Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DolphinRC.png",
+    "websiteUrl": "http://www.dolphinclub.org/"
+  },
+  {
+    "name": "Downeast Rowing Club",
+    "city": "Mount Desert",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DowneastRC.png",
+    "websiteUrl": "https://downeastrowing.org/"
+  },
+  {
+    "name": "Duluth Rowing Club",
+    "city": "Duluth",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Duluth.png",
+    "websiteUrl": "http://www.duluthrowing.org/"
+  },
+  {
+    "name": "Durham Boat Club",
+    "city": "Durham",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Black.png",
+    "websiteUrl": "http://www.durhamboat.com/dbc.php"
+  },
+  {
+    "name": "Duwamish Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DuwamishRC.png",
+    "websiteUrl": "http://duwamishrowingclub.org/"
+  },
+  {
+    "name": "Duxbury Bay Maritime School Masters",
+    "city": "Duxbury",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/DuxburyBayMaritimeSchool_MA.png",
+    "websiteUrl": "http://duxbayms.com/"
+  },
+  {
+    "name": "Duxbury Boat Club",
+    "city": "Duxbury",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/DuxburyBC.png",
+    "websiteUrl": "https://www.facebook.com/duxboatclub"
+  },
+  {
+    "name": "East Arm Rowing Club",
+    "city": "Greenwood Lake",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EastArmRC.png",
+    "websiteUrl": "http://www.eastarm.org/"
+  },
+  {
+    "name": "East Bay Rowing",
+    "city": "Barrington",
+    "state": "RI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EastBayRowing_RI.png",
+    "websiteUrl": "http://eastbayrowing.com/"
+  },
+  {
+    "name": "East Bay Rowing Club",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EastBayRC.png",
+    "websiteUrl": "http://www.eastbayrowingclub.org/"
+  },
+  {
+    "name": "East End Rowing Institute",
+    "city": "Riverhead",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.eastendrowing.com/"
+  },
+  {
+    "name": "East Tennessee Rowing Organization",
+    "city": "Maryville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ETRO.png",
+    "websiteUrl": "http://www.rowsmoky.com/"
+  },
+  {
+    "name": "Eastern Shore Community Rowers",
+    "city": "Easton",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ESCR.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Ecorse Rowing Club",
+    "city": "Ecorse",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EcorseRC.png",
+    "websiteUrl": "http://www.ecorserowingclub.com/"
+  },
+  {
+    "name": "Elizabeth City Rowing Club",
+    "city": "Elizabeth City",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ElizabethCityRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Evans Rowing Club",
+    "city": "Jacksonville",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EvansRC.png",
+    "websiteUrl": "http://www.evansrowingclub.com/"
+  },
+  {
+    "name": "(Dartmouth Alumni)",
+    "city": "Hanover",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EverGreenBC.png",
+    "websiteUrl": "http://evergreenboatclub.com/"
+  },
+  {
+    "name": "Everett Rowing Association",
+    "city": "Everett",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EverettRA.png",
+    "websiteUrl": "http://www.everettrowing.com/"
+  },
+  {
+    "name": "Ewauna Rowing Club",
+    "city": "Klamath Falls",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/EwaunaRC.png",
+    "websiteUrl": "http://www.klamathrowing.org/"
+  },
+  {
+    "name": "Fairmount Rowing Association",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FairmountRA.png",
+    "websiteUrl": "http://www.fairmountrowing.org/"
+  },
+  {
+    "name": "Farmington Valley Rowing Association",
+    "city": "Simsbury",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FarmingtonValleyRA.png",
+    "websiteUrl": "http://www.fvra.org/"
+  },
+  {
+    "name": "Firefly Rowing Club",
+    "city": "Charlottesville",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FireflyRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Flatwater Rowing",
+    "city": "Cape San Blas",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FlatwaterRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Florida Athletic Club",
+    "city": "Winter Park",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FloridaAC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Flower City Rowing",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FlowerCityRowing.png",
+    "websiteUrl": "https://www.facebook.com/flowercityrowing/"
+  },
+  {
+    "name": "Fort Collins Rowing Association",
+    "city": "Fort Collins",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FortCollinsRA.png",
+    "websiteUrl": "http://www.fcrowing.org/"
+  },
+  {
+    "name": "Fort Worth Rowing Club",
+    "city": "Fort Worth",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FortWorthRC.png",
+    "websiteUrl": "http://www.fortworthrowing.com/"
+  },
+  {
+    "name": "The Foundry",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Foundry.png",
+    "websiteUrl": "http://www.clevelandfoundry.org/"
+  },
+  {
+    "name": "Fox River Rowing",
+    "city": "St. Charles",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FoxRiverRowing.png",
+    "websiteUrl": "https://www.foxriverrowing.com/"
+  },
+  {
+    "name": "Fox Valley Rowing Club",
+    "city": "Appleton",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FoxValleyRC.png",
+    "websiteUrl": "http://www.foxvalleyrowing.com/"
+  },
+  {
+    "name": "Freedom Rowers",
+    "city": "Easton",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FreedomRowers.png",
+    "websiteUrl": "http://freedomrowers.org/"
+  },
+  {
+    "name": "Freedom Rows Florida Tri-Cities",
+    "city": "Tampa",
+    "state": "Sarasota &amp; St Petersburg",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FreedomRowsFloridaTriCities.png",
+    "websiteUrl": "https://www.facebook.com/groups/FreedomRowsFTC/"
+  },
+  {
+    "name": "Frisco Rowing Center",
+    "city": "Frisco",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FriscoRC_CO.png",
+    "websiteUrl": "http://www.friscorowing.com/"
+  },
+  {
+    "name": "Frisco Rowing Club",
+    "city": "Frisco",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/FriscoRC_TX.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Genesee Rowing Club",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GeneseeRC.png",
+    "websiteUrl": "http://www.geneseerowingclub.com/"
+  },
+  {
+    "name": "Genesee Waterways Center",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GeneseeWaterwaysCenter.png",
+    "websiteUrl": "http://www.geneseewaterways.org/"
+  },
+  {
+    "name": "Gentle Giant Rowing Club",
+    "city": "Somerville",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GentleGiant.png",
+    "websiteUrl": "http://www.gentlegiantrowing.org/"
+  },
+  {
+    "name": "GMS Rowing Center",
+    "city": "New Milford",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GMSRowingCenter.png",
+    "websiteUrl": "http://www.gmsrow.com/"
+  },
+  {
+    "name": "GoPink!DC",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GoPinkDC.png",
+    "websiteUrl": "http://www.gopinkdc.com/"
+  },
+  {
+    "name": "Gordon Rowing Association",
+    "city": "Essex",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GordonRA.png",
+    "websiteUrl": "https://athletics.gordon.edu/index.aspx?path=row"
+  },
+  {
+    "name": "Grand Rapids Rowing Club",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GrandRapidsRA.png",
+    "websiteUrl": "http://grandrapidsrowing.com/"
+  },
+  {
+    "name": "Grateful Oars Rowing Club",
+    "city": "Norwood",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GratefulOarsRC.png",
+    "websiteUrl": "http://gratefuloars.weebly.com/"
+  },
+  {
+    "name": "Gray Knights Rowing Club",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GrayKnightsRC.png",
+    "websiteUrl": "http://www.grayknightsrowingclub.com/"
+  },
+  {
+    "name": "Great Bay Rowing Club",
+    "city": "Durham",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreatBayRC.png",
+    "websiteUrl": "http://www.greatbayrowing.org/"
+  },
+  {
+    "name": "Great Blue Heron Rowing Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Sky_Blue.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Great Bridge Masters",
+    "city": "Chesapeake",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/GreatBridgeHS_VA.png",
+    "websiteUrl": "http://www.greatbridgecrew.org/"
+  },
+  {
+    "name": "Great Miami Rowing Center",
+    "city": "Hamilton",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreatMiamiRC.png",
+    "websiteUrl": "http://greatmiamirowing.weebly.com/"
+  },
+  {
+    "name": "Great River Rowing",
+    "city": "Shelton",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreatRiverRowing.png",
+    "websiteUrl": "http://greatriverrowing.com/"
+  },
+  {
+    "name": "Great Salt Lake Rowing",
+    "city": "Salt Lake",
+    "state": "UT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreatSaltLakeRowing.png",
+    "websiteUrl": "http://www.gslr.org/"
+  },
+  {
+    "name": "Greater Columbus Rowing Association",
+    "city": "Columbus",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.columbusrowing.org/"
+  },
+  {
+    "name": "Greater Dayton Rowing Association",
+    "city": "Dayton",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreaterDaytonRA.png",
+    "websiteUrl": "http://www.daytonrowing.org/index.htm"
+  },
+  {
+    "name": "Greater Houston Rowing Club",
+    "city": "Sugar Land",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.greaterhoustonrowingclub.com/"
+  },
+  {
+    "name": "Greater Lawrence Rowing",
+    "city": "Lawrence",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/GreaterLawrenceRowing.png",
+    "websiteUrl": "http://www.greaterlawrencerowing.org/rowing.htm"
+  },
+  {
+    "name": "Green Harbor River Rowing",
+    "city": "Marshfield",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreenHarborRiverRowing.png",
+    "websiteUrl": "https://www.facebook.com/GreenHarborRiverRowing/"
+  },
+  {
+    "name": "Green Lake Crew",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreenLake.png",
+    "websiteUrl": "http://www.greenlakecrew.org/"
+  },
+  {
+    "name": "Green Mountain Rowing",
+    "city": "Milton",
+    "state": "VT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreenMountainRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Greenwich Crew",
+    "city": "Cos Cob",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GreenwichCrew.png",
+    "websiteUrl": "https://www.greenwichcrew.com/"
+  },
+  {
+    "name": "GTS Rowing",
+    "city": "Haverhill",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/GTSRowing.png",
+    "websiteUrl": "http://www.gtsrowing.com/"
+  },
+  {
+    "name": "Halifax Rowing Association",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HalifaxRA.png",
+    "websiteUrl": "http://www.halifaxrowing.org/"
+  },
+  {
+    "name": "Hampton Roads Rowing Club",
+    "city": "Hampton Roads",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HamptonRoadsRC.png",
+    "websiteUrl": "http://www.hrrc.net/"
+  },
+  {
+    "name": "Harborside Rowing",
+    "city": "Port Washington",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HarborsideRowing.png",
+    "websiteUrl": "http://www.harborsiderowing.org/"
+  },
+  {
+    "name": "Harlem River Community Rowing",
+    "city": "New York",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HarlemRiverCommunityRowing.png",
+    "websiteUrl": "http://www.harlemrivercommunityrowing.org/"
+  },
+  {
+    "name": "Harvey's Lake Rowing Club",
+    "city": "Harvey's Lake",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HarveysLakeRC.png",
+    "websiteUrl": "https://www.facebook.com/HarveysLakeRowingClub"
+  },
+  {
+    "name": "Hawk Hill Rowing Club",
+    "city": "Philadelphi",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/StJosephMen.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Hawk Rowing Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Maroon.png",
+    "websiteUrl": "http://www.sjprep.org/crew"
+  },
+  {
+    "name": "Hawkeye Community Rowing",
+    "city": "Iowa City",
+    "state": "IA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HawkeyeCommunityRowing.png",
+    "websiteUrl": "https://recserv.uiowa.edu/rowing"
+  },
+  {
+    "name": "Heritage Coast Sailing &amp; Rowing",
+    "city": "Tawas",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HeritageCoastSailingRowing.png",
+    "websiteUrl": "http://heritage-23.org/"
+  },
+  {
+    "name": "Hiawatha Island Boat Club",
+    "city": "Owego",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HiawathaIslandBC.png",
+    "websiteUrl": "http://www.hiawathaislandboatclub.org/"
+  },
+  {
+    "name": "Highlands Rowing Center",
+    "city": "West Milford",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HighlandsRC.png",
+    "websiteUrl": "http://www.highlandsrowingcenter.org/"
+  },
+  {
+    "name": "Hingham Maritime Center",
+    "city": "Hingham",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HinghamMaritimeCenter.png",
+    "websiteUrl": "http://hinghammaritime.org/"
+  },
+  {
+    "name": "Hinsdale Community Rowing",
+    "city": "Lemont",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HinsdaleCommunityRowing.png",
+    "websiteUrl": "https://www.hinsdalerowing.com/"
+  },
+  {
+    "name": "Hollywood Rowing Club",
+    "city": "Hollywood",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "https://www.hollywoodrowingclub.com/"
+  },
+  {
+    "name": "Holyoke Rows Inc.",
+    "city": "Holyoke",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Purple.png",
+    "websiteUrl": "http://www.holyokerows.org/"
+  },
+  {
+    "name": "Honolulu Rowing Club",
+    "city": "Honolulu",
+    "state": "HI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HonoluluRC.png",
+    "websiteUrl": "http://www.honolulurowing.org/"
+  },
+  {
+    "name": "Humboldt Bay Rowing Association",
+    "city": "Eureka",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/White.png",
+    "websiteUrl": "http://www.hbra.org/"
+  },
+  {
+    "name": "Hudson River Rowing Association",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HudsonRiverRA.png",
+    "websiteUrl": "http://www.hudsonriverrowing.org/"
+  },
+  {
+    "name": "Huntsville-Madison County Rowing &amp; Watersports",
+    "city": "Huntsville",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/HuntsvilleMadisonCountyRowing.png",
+    "websiteUrl": "http://www.rowhuntsville.com/"
+  },
+  {
+    "name": "Independence Rowing Club",
+    "city": "Nashua",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "https://www.independencerowing.org/"
+  },
+  {
+    "name": "Indian River Rowing Club | Vero Beach Rowing",
+    "city": "Vero Beach",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/IndianRiverRC.png",
+    "websiteUrl": "http://indianriverrowingclub.com/"
+  },
+  {
+    "name": "Indianapolis Rowing Center",
+    "city": "Indianapolis",
+    "state": "IN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/IndianapolisRC.png",
+    "websiteUrl": "http://www.rowirc.org/"
+  },
+  {
+    "name": "Ikaika Hawaii Rowing",
+    "city": "Honolulu",
+    "state": "HI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/IkaikaHawaiiRowing.png",
+    "websiteUrl": "https://www.ikaikahawaii.com/"
+  },
+  {
+    "name": "Indigenous Rowing Club",
+    "city": "Onondaga Nation",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/IndigenousRC.png",
+    "websiteUrl": "http://www.chargersrowing.org/indigenous-rowing/"
+  },
+  {
+    "name": "Intrepid Rowing Club",
+    "city": "Palm City",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/IntrepidRC.png",
+    "websiteUrl": "http://www.intrepidrowingclub.com/"
+  },
+  {
+    "name": "Jack London Aquatic Center",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/JLAC.png",
+    "websiteUrl": "http://www.jlac.org/rowing.php"
+  },
+  {
+    "name": "Jack Sulgers Sculling Circus",
+    "city": "Larchmont",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/JackSulgersScullingCircus.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Jacksonville Rowing Club",
+    "city": "Jacksonville",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/JacksonvilleRC.png",
+    "websiteUrl": "http://www.jaxrow.org/"
+  },
+  {
+    "name": "Jefferson County Rowing Club",
+    "city": "Jefferson",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/JeffersonCountyRC.png",
+    "websiteUrl": "http://rowjc.org/"
+  },
+  {
+    "name": "Juniper Rowing Club",
+    "city": "Chesapeake",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/JuniperRC.png",
+    "websiteUrl": "http://www.juniperrowingclub.org/"
+  },
+  {
+    "name": "Kansas City Boat Club",
+    "city": "Kansas City",
+    "state": "KS",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KansasCityBC.png",
+    "websiteUrl": "https://www.facebook.com/kcboatclub/"
+  },
+  {
+    "name": "Kansas City Rowing Club",
+    "city": "Kansas City",
+    "state": "KS",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KansasCityRC.png",
+    "websiteUrl": "http://www.kcrowing.com/"
+  },
+  {
+    "name": "Kenai Crewsers Rowing Club",
+    "city": "Seward",
+    "state": "AK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/AnchorageRA.png",
+    "websiteUrl": "http://www.kenaicrewsers.org/"
+  },
+  {
+    "name": "Kent Mitchell Rowing Club",
+    "city": "Redwood City",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KentMitchellRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Killer Bees Rowing Club",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KillerBeesRC.png",
+    "websiteUrl": "http://www.killerbeesrowingclub.org/"
+  },
+  {
+    "name": "Kingsbury Run Boat Club",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KingsburyRunBC.png",
+    "websiteUrl": "http://www.kingsburyrunbc.org/"
+  },
+  {
+    "name": "Kitsap Rowing Association",
+    "city": "Poulsbo",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KitsapRA.png",
+    "websiteUrl": "http://www.kitsaprowing.org/"
+  },
+  {
+    "name": "Knoxville Rowing Association",
+    "city": "Knoxville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/KnoxvilleRA.png",
+    "websiteUrl": "http://www.knoxrowing.com/"
+  },
+  {
+    "name": "La Baie Verte Rowing Club",
+    "city": "Green Bay",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LaBaieVerteRC.png",
+    "websiteUrl": "http://www.lbvrc.org/"
+  },
+  {
+    "name": "Lake Casitas Rowing Association",
+    "city": "Ventura",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeCasitasRA.png",
+    "websiteUrl": "http://www.casitasrowing.org/"
+  },
+  {
+    "name": "Lake County Rowing Association",
+    "city": "Clermont",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeCountyRA.png",
+    "websiteUrl": "http://www.lakecountyrowing.org/"
+  },
+  {
+    "name": "Lake Guntersville Rowing Club",
+    "city": "Guntersville",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeGuntersvilleRC.png",
+    "websiteUrl": "http://www.guntersvillerowing.org/"
+  },
+  {
+    "name": "Lake Houston Rowing",
+    "city": "Huffman",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Red.png",
+    "websiteUrl": "http://www.lakehoustonrowing.com/"
+  },
+  {
+    "name": "Lake Lanier Rowing Club",
+    "city": "Gainesville",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeLanierRC.png",
+    "websiteUrl": "http://www.lakelanierrowing.org/"
+  },
+  {
+    "name": "Lake Las Vegas Rowing Club",
+    "city": "Henderson",
+    "state": "NV",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeLasVegasRC.png",
+    "websiteUrl": "https://www.facebook.com/Lake-Las-Vegas-Rowing-Club-1757441607831828/"
+  },
+  {
+    "name": "Lake Leelanau Rowing Club",
+    "city": "Lake Leelanau",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Red.png",
+    "websiteUrl": "https://www.l2row.com/"
+  },
+  {
+    "name": "Lake Lure Racing &amp; Rowing Retreats",
+    "city": "Lake Lure",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeLureRacing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Lake Merritt Rowing Club",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeMerrittRC.png",
+    "websiteUrl": "http://www.rowlakemerritt.org/"
+  },
+  {
+    "name": "Lake Oswego Community Rowing",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeOswegoCR.png",
+    "websiteUrl": "http://www.lorowing.org/"
+  },
+  {
+    "name": "Lake Phalen Rowing",
+    "city": "Saint Paul",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/White.png",
+    "websiteUrl": "https://www.facebook.com/LakePhalenRowing"
+  },
+  {
+    "name": "Lake Purdy Rowing Association",
+    "city": "Birmingham",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakePurdyRA.png",
+    "websiteUrl": "http://www.lakepurdyrowing.org/"
+  },
+  {
+    "name": "Lake Quinsigamond Community Rowing",
+    "city": "Medford",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeQuinsigamondCommunityRowing.png",
+    "websiteUrl": "http://www.lqcrowing.com/"
+  },
+  {
+    "name": "Lake Stevens Rowing Club",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.lakestevensrowing.com/"
+  },
+  {
+    "name": "Lake Sunapee Rowing Club",
+    "city": "New London",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeSunapeeRC.png",
+    "websiteUrl": "http://www.lakesunapeerowing.com/"
+  },
+  {
+    "name": "Lake Tahoe Rowing Association",
+    "city": "Incline Village",
+    "state": "NV",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeTahoeRA.png",
+    "websiteUrl": "https://www.rowtahoe.org/"
+  },
+  {
+    "name": "Lake Union Crew",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeUnionRC.png",
+    "websiteUrl": "http://www.lakeunioncrew.com/"
+  },
+  {
+    "name": "Lake Washington Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeWashingtonRC.png",
+    "websiteUrl": "http://www.lakewashingtonrowing.com/"
+  },
+  {
+    "name": "Land O Lakes Rowing Club",
+    "city": "Land O Lakes",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LandOLakesRC.png",
+    "websiteUrl": "http://lolrowing.olinesports.com/main.php"
+  },
+  {
+    "name": "Lansing Rowing Club",
+    "city": "Lansing",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LansingRC.png",
+    "websiteUrl": "http://www.lansingrowingclub.org/"
+  },
+  {
+    "name": "Lehigh River Rowing Association",
+    "city": "Bethlehem",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LehighRiverRA.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Lemon Bay Crew Club",
+    "city": "Englewood",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LemonBayCrew.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Lincoln Park Boat Club",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LincolnPark.png",
+    "websiteUrl": "http://www.lpbc.net/"
+  },
+  {
+    "name": "Lions Rowing Club",
+    "city": "Los Angeles",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LionsRC.png",
+    "websiteUrl": "http://www.lionsrc.com/"
+  },
+  {
+    "name": "Litchfield Hills Rowing Club",
+    "city": "Litchfield",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LitchfieldHillsRC.png",
+    "websiteUrl": "http://litchfieldhillsrc.org/"
+  },
+  {
+    "name": "Long Beach Rowing Association",
+    "city": "Long Beach",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.longbeachrowing.org/"
+  },
+  {
+    "name": "Long Lake Rowing Club",
+    "city": "Long Lake",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LongLakeRowingCrew.png",
+    "websiteUrl": "http://www.longlakerowing.org/"
+  },
+  {
+    "name": "Longmont Sculling Club",
+    "city": "Longmont",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LongmontScullingClub.png",
+    "websiteUrl": "http://www.longmontsculling.com/"
+  },
+  {
+    "name": "Lookout Rowing Club",
+    "city": "Chattanooga",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LookoutRC.png",
+    "websiteUrl": "http://www.lookoutrowingclub.com/"
+  },
+  {
+    "name": "Los Angeles Rowing Club",
+    "city": "Marina Del Rey",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LosAngelesRC.png",
+    "websiteUrl": "http://larowing.org/"
+  },
+  {
+    "name": "Los Gatos Rowing Club",
+    "city": "Los Gatos",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LosGatosRC.png",
+    "websiteUrl": "http://www.lgrc.org/"
+  },
+  {
+    "name": "Louisville Rowing Club",
+    "city": "Louisville",
+    "state": "KY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LouisvilleRC.png",
+    "websiteUrl": "http://www.louisvillerowingclub.org/"
+  },
+  {
+    "name": "Loveland Rowing",
+    "city": "Loveland",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LovelandRowing.png",
+    "websiteUrl": "https://www.lovelandrowing.org/"
+  },
+  {
+    "name": "Maine Coast Rowing Association",
+    "city": "Brunswick",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MerrymeetingCommunityRA.png",
+    "websiteUrl": "https://mcrarowing.org/"
+  },
+  {
+    "name": "Maine Rowing Association",
+    "city": "Bridgton",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MaineRA.png",
+    "websiteUrl": "http://www.rowmaine.org/"
+  },
+  {
+    "name": "Malta Boat Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MaltaBC.png",
+    "websiteUrl": "http://www.maltaboatclub.com/"
+  },
+  {
+    "name": "Manhattan Masters Rowing Club",
+    "city": "Manhattan",
+    "state": "KS",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/KansasStateMen.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Marin Rowing Association",
+    "city": "Greenbrae",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MarinRA.png",
+    "websiteUrl": "http://www.marinrowing.org/"
+  },
+  {
+    "name": "Marina Aquatic Center",
+    "city": "Marina del Rey",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MarinaAquaticCenter.png",
+    "websiteUrl": "http://www.macrowing.org/"
+  },
+  {
+    "name": "Mariner Point Scullers",
+    "city": "Clinton",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MarinerPointScullers.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Maritime Rowing Club",
+    "city": "Norwalk",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MaritimeRC.png",
+    "websiteUrl": "http://www.maritimerowing.net/"
+  },
+  {
+    "name": "Martha's Moms",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MarthasMoms.png",
+    "websiteUrl": "http://www.lakewashingtonrowing.com/marthasmoms.html"
+  },
+  {
+    "name": "Massie Lane Outfitters",
+    "city": "Yorktown",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MassieLaneOutfitters.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Masters Coaching Rowing Club",
+    "city": "Brewster",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MastersCoachingRC.png",
+    "websiteUrl": "http://www.masterscoaching.com/"
+  },
+  {
+    "name": "MedStar NRH Adaptive Rowing",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MEDSTAR_NRH.png",
+    "websiteUrl": "https://www.medstarnrh.org/sports"
+  },
+  {
+    "name": "Megunticook Rowing",
+    "city": "Camden",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MegunticookRowing.png",
+    "websiteUrl": "http://megunticookrowing.org/"
+  },
+  {
+    "name": "Mendota Rowing Club",
+    "city": "Madison",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MendotaRC.png",
+    "websiteUrl": "http://www.mendotarowingclub.com/"
+  },
+  {
+    "name": "Merrimack River Rowing Association",
+    "city": "Lowell",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MerrimackRiverRA.png",
+    "websiteUrl": "http://www.merrimackrowing.org/"
+  },
+  {
+    "name": "Messalonskee Rowing Club",
+    "city": "Waterville",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/ColbyCollege.png",
+    "websiteUrl": "http://www.colbycrewalumni.com/"
+  },
+  {
+    "name": "Miami Beach Rowing Club",
+    "city": "Miami Beach",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/MiamiBeachJuniors.png",
+    "websiteUrl": "http://rowmiamibeach.com/"
+  },
+  {
+    "name": "Miami International Rowhouse",
+    "city": "Miami",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MiamiInternationalRowhouse.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Miami Rowing Club",
+    "city": "Miami",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/MiamiRC.png",
+    "websiteUrl": "http://www.miamirowing.org/"
+  },
+  {
+    "name": "Mid Hudson Rowing Association",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MidHudsonRA.png",
+    "websiteUrl": "http://www.midhudsonrowing.org/"
+  },
+  {
+    "name": "MillerRowing",
+    "city": "St. Charles",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MillerRowing.png",
+    "websiteUrl": "http://www.millerrowing.com/"
+  },
+  {
+    "name": "Milwaukee Rowing Club",
+    "city": "Milwaukee",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Royal_Blue.png",
+    "websiteUrl": "http://www.milwaukeerowingclub.org/"
+  },
+  {
+    "name": "Minneapolis Rowing Club",
+    "city": "Minneapolis",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MinneapolisRC.png",
+    "websiteUrl": "http://www.mplsrowing.org/"
+  },
+  {
+    "name": "Minnesota Boat Club",
+    "city": "St. Paul",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MinnesotaBC.png",
+    "websiteUrl": "http://www.boatclub.org/"
+  },
+  {
+    "name": "Mission Bay Rowing Association",
+    "city": "San Diego",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MissionBayRA.png",
+    "websiteUrl": "http://www.mbra.net/"
+  },
+  {
+    "name": "Monmouth Boat Club",
+    "city": "Red Bank",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MonmouthBC.png",
+    "websiteUrl": "https://monmouthboatclub.org/"
+  },
+  {
+    "name": "Montgomery Rowing Club",
+    "city": "Montgomery",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MontgomeryRC.png",
+    "websiteUrl": "http://montgomeryrowing.org/"
+  },
+  {
+    "name": "Montlake Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/White.png",
+    "websiteUrl": "http://montlakerowing.org/"
+  },
+  {
+    "name": "Moreau Rowing &amp; Waterfront Center",
+    "city": "Queensbury",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/QueensburyRC.png",
+    "websiteUrl": "http://www.rowmoreau.com/"
+  },
+  {
+    "name": "Mount Baker Rowing Center",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MtBakerRowing.png",
+    "websiteUrl": "http://www.cityofseattle.net/parks/boats/Mtbaker.htm"
+  },
+  {
+    "name": "Mount Holyoke Community Rowing",
+    "city": "South Hadley",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/MountHolyokeCommunityRowing.png",
+    "websiteUrl": "http://www.facebook.com/pages/Mount-Holyoke-Community-Rowing/201227169917645"
+  },
+  {
+    "name": "Naiades Oncology Rowing",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NaiadesOncologyRowing.png",
+    "websiteUrl": "http://sites.google.com/site/naiadesoncologyrowing/"
+  },
+  {
+    "name": "Nantucket Rowing",
+    "city": "Nantucket",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NantucketRowing.png",
+    "websiteUrl": "https://www.nantucketrowing.com/"
+  },
+  {
+    "name": "Narragansett Boat Club",
+    "city": "Providence",
+    "state": "RI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NarragansettBC.png",
+    "websiteUrl": "http://www.rownbc.org/"
+  },
+  {
+    "name": "Nashville Rowing Club",
+    "city": "Nashville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NashvilleRC.png",
+    "websiteUrl": "http://nashvillerowing.org/"
+  },
+  {
+    "name": "Navesink River Rowing",
+    "city": "Red Bank",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NavesinkRR.png",
+    "websiteUrl": "http://www.monmouth.com/~nrrc/"
+  },
+  {
+    "name": "Navy Masters Rowing Club",
+    "city": "Annapolis",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/Navy.png",
+    "websiteUrl": "http://navymasters.org/"
+  },
+  {
+    "name": "NBP Community Rowing Club",
+    "city": "Sarasota",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NBPMastersRowing.png",
+    "websiteUrl": "https://nathanbendersonpark.org/community_rowing/"
+  },
+  {
+    "name": "Nelson Rowing",
+    "city": "Saint James",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NelsonRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Neponset Rowing Club",
+    "city": "Milton",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/MiltonHS_MA.png",
+    "websiteUrl": "http://neponsetrowing.org/"
+  },
+  {
+    "name": "Neptune Rowing Club",
+    "city": "Virtual",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NeptuneRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Nereid Boat Club",
+    "city": "Rutherford",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NereidBC.png",
+    "websiteUrl": "http://www.nereidbc.org/"
+  },
+  {
+    "name": "Neubayern Rudermannschaft",
+    "city": "Plantation",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NeubayernRudermannschaft.png",
+    "websiteUrl": "https://www.facebook.com/NeubayernRM/"
+  },
+  {
+    "name": "New Bedford Rowing Center",
+    "city": "New Bedford",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewBedfordRC.png",
+    "websiteUrl": "http://www.newbedfordrowing.org/"
+  },
+  {
+    "name": "New Bern Boat Club",
+    "city": "New Bern",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewBernBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "New Haven Rowing Club",
+    "city": "Derby",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewHavenRC.png",
+    "websiteUrl": "http://www.newhavenrowingclub.org/"
+  },
+  {
+    "name": "New Orleans Rowing Club",
+    "city": "New Orleans",
+    "state": "LA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewOrleansRC.png",
+    "websiteUrl": "http://www.neworleansrowingclub.org/"
+  },
+  {
+    "name": "New Rochelle Rowing Club",
+    "city": "New Rochelle",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewRochelleRC.png",
+    "websiteUrl": "http://www.newrochellerowingclub.com/"
+  },
+  {
+    "name": "New World Rowing Club",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewWorldRC.png",
+    "websiteUrl": "http://www.newworldrowing.org/"
+  },
+  {
+    "name": "New York Athletic Club",
+    "city": "Pelham",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NYAC.png",
+    "websiteUrl": "http://www.nyacrowing.net/"
+  },
+  {
+    "name": "New York Rowing Association",
+    "city": "New York",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewYorkRA.png",
+    "websiteUrl": "http://nyrowing.org/"
+  },
+  {
+    "name": "Newburgh Rowing Club",
+    "city": "Newburgh",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewburghRC.png",
+    "websiteUrl": "http://www.newburghrowing.org/"
+  },
+  {
+    "name": "Newport Aquatic Center",
+    "city": "Newport Beach",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewportAC.png",
+    "websiteUrl": "http://www.newportaquaticcenter.com/"
+  },
+  {
+    "name": "Newport Rowing Club",
+    "city": "Newport",
+    "state": "DE",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewportRC_DE.png",
+    "websiteUrl": "http://www.newportrowingclub.org/"
+  },
+  {
+    "name": "Newport Sea Base Rowing",
+    "city": "Newport Beach",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NewportSeaBaseRowing.png",
+    "websiteUrl": "https://www.newportseabaserowing.org/"
+  },
+  {
+    "name": "No Limits Rowing",
+    "city": "Cincinnati",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NoLimitsRowing.png",
+    "websiteUrl": "http://nolimitsrowing.com/"
+  },
+  {
+    "name": "Noank Rowing Club",
+    "city": "Noank",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NoankRC.png",
+    "websiteUrl": "http://www.noankrowing.org/"
+  },
+  {
+    "name": "Noisy Waters Rowing Club",
+    "city": "Bellingham",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NoisyWatersRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "North Bay Rowing Club",
+    "city": "Petaluma",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthBayRC.png",
+    "websiteUrl": "http://www.northbayrowing.org/"
+  },
+  {
+    "name": "North Carolina Rowing Center",
+    "city": "Summerfield",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthCarolinaRC.png",
+    "websiteUrl": "https://www.ncrowing.com/"
+  },
+  {
+    "name": "North Cascades Crew",
+    "city": "Lake Stevens",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthCascadesCrew.png",
+    "websiteUrl": "http://www.northcascadescrew.com/"
+  },
+  {
+    "name": "North Jersey Rowing",
+    "city": "Ringwood",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthJerseyRowing.png",
+    "websiteUrl": "http://www.northjerseyrowing.com/"
+  },
+  {
+    "name": "North Palm Beach Rowing Club",
+    "city": "Palm Beach Gardens",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.npbrc.com/"
+  },
+  {
+    "name": "North Rockland Rowing Club",
+    "city": "Haverstraw",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthRocklandRC.png",
+    "websiteUrl": "http://www.northrocklandrowingclub.org/"
+  },
+  {
+    "name": "North Shore Maritime Center",
+    "city": "Lynn",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthShoreMaritimeCenter.png",
+    "websiteUrl": "https://www.northshoremaritimecenter.org/"
+  },
+  {
+    "name": "North Star Community Rowing",
+    "city": "Minneapolis",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthStarCommunityRowing.png",
+    "websiteUrl": "http://www.northstarcommunityrowing.org/"
+  },
+  {
+    "name": "Northampton Community Rowing",
+    "city": "Northampton",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthamptonCrew.png",
+    "websiteUrl": "http://hampcrew.com/"
+  },
+  {
+    "name": "Northern Michigan University Alumni Rowing Association",
+    "city": "Marquette",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthernMichiganAlumni.png",
+    "websiteUrl": "https://www.nmu.edu/recsports/crew-general-information"
+  },
+  {
+    "name": "Northern Virginia Rowing Club",
+    "city": "Fairfax Station",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthernVirginiaRC.png",
+    "websiteUrl": "https://www.row4nvrc.com/"
+  },
+  {
+    "name": "Northwest Rowing Center",
+    "city": "Vashon Island",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorthwestRowingCenter.png",
+    "websiteUrl": "https://www.northwestrowingcenter.com/"
+  },
+  {
+    "name": "Norwalk River Rowing Association",
+    "city": "Norwalk",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NorwalkRiverRA.png",
+    "websiteUrl": "http://www.norwalkriverrowing.org/"
+  },
+  {
+    "name": "Numb Scull Rowing Club",
+    "city": "Gainesville",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/NumbScullRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Oakland Athletic Rowing Society",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OaklandAthleticRowingSociety.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Oakton Masters Rowing Club",
+    "city": "Fairfax Station",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/OaktonHS_VA.png",
+    "websiteUrl": "http://oaktonmastersrowing.org/"
+  },
+  {
+    "name": "Occoquan Boat Club",
+    "city": "Fairfax Station",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OccoquanBC.png",
+    "websiteUrl": "http://www.rowobc.org/"
+  },
+  {
+    "name": "Occoquan International",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OccoquanInternational.png",
+    "websiteUrl": "https://sites.google.com/site/mcguirkmike/Home"
+  },
+  {
+    "name": "Ocean City Rowing &amp; Athletic Association",
+    "city": "Ocean City",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OceanCityRAA.png",
+    "websiteUrl": "http://www.ocraa.com/"
+  },
+  {
+    "name": "Octos",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Octos.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Ohio Athletic Club",
+    "city": "Columbus",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OhioAthleticClub.png",
+    "websiteUrl": "http://www.ohiorowing.org/"
+  },
+  {
+    "name": "Ohio Valley Rowing Club",
+    "city": "Parkersburg",
+    "state": "WV",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Yellow.png",
+    "websiteUrl": "http://www.ohiovalleyrowingclub.com/"
+  },
+  {
+    "name": "Oklahoma City National High Performance Center",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OKCNHPC.png",
+    "websiteUrl": "http://boathousedistrict.org/training-site/high-performance/"
+  },
+  {
+    "name": "Oklahoma City Riversport",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OKCRiversport.png",
+    "websiteUrl": "https://www.riversportokc.org/"
+  },
+  {
+    "name": "Old Glory Boat Club",
+    "city": "Various",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OldGloryBC.png",
+    "websiteUrl": "http://natrowing.org/old-glory-boat-club/"
+  },
+  {
+    "name": "Olden Bears Rowing Club",
+    "city": "Various",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OldenBearsRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Olympia Area Rowing",
+    "city": "Olympia",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OlympiaAreaRowing.png",
+    "websiteUrl": "http://www.olympiaarearowing.org/"
+  },
+  {
+    "name": "Olympic Peninsula Rowing Association",
+    "city": "Port Angeles",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OlympicPeninsulaRA.png",
+    "websiteUrl": "https://www.olympicpeninsularowingassociation.org/"
+  },
+  {
+    "name": "Omaha Rowing Association",
+    "city": "Omaha",
+    "state": "NE",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OmahaRA.png",
+    "websiteUrl": "https://omaharowing.com/"
+  },
+  {
+    "name": "Open Water Rowing Center",
+    "city": "Sausalito",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OpenWaterRC.png",
+    "websiteUrl": "http://owrc.com/"
+  },
+  {
+    "name": "Orange County Rowing Association",
+    "city": "Newburgh",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OrangeCountyRA.png",
+    "websiteUrl": "https://www.facebook.com/OrangeCountyRowing/"
+  },
+  {
+    "name": "Orcas Island Rowing Association",
+    "city": "Eastsound",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OrcasIslandRA.png",
+    "websiteUrl": "http://www.orcasislandrowing.org/"
+  },
+  {
+    "name": "Oregon Association of Rowers",
+    "city": "Eugene",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OregonAssociationRowers.png",
+    "websiteUrl": "http://www.oarowing.org/"
+  },
+  {
+    "name": "Oregon Rowing Unlimited",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OregonRowingUnlimited.png",
+    "websiteUrl": "http://www.oregonrowing.org/"
+  },
+  {
+    "name": "Orlando Area Rowing Society (OARS)",
+    "city": "Orlando",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/OARS_FL.png",
+    "websiteUrl": "http://www.oars-online.com/"
+  },
+  {
+    "name": "Orlando Rowing Club",
+    "city": "Orlando",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OrlandoRC.png",
+    "websiteUrl": "http://www.orlandorowingclub.com/"
+  },
+  {
+    "name": "Osprey Rowing Club",
+    "city": "North Kingstown",
+    "state": "RI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OspreyRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Oswego Rowing Club",
+    "city": "Oswego",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OswegoRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Otsego Area Rowing",
+    "city": "Cooperstown",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OtsegoAreaRowing.png",
+    "websiteUrl": "https://www.facebook.com/CooperstownCrew/"
+  },
+  {
+    "name": "Otselic Amateur Rowing Association (O.A.R.S.)",
+    "city": "Whitney Point",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/OtselicARC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Overpeck Community Rowing Association",
+    "city": "Teaneck",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/TeaneckHS_NJ.png",
+    "websiteUrl": "http://www.teaneckrowingclub.org/"
+  },
+  {
+    "name": "Oyster Bay Community Rowing ",
+    "city": "Oyster Bay",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Royal_Blue.png",
+    "websiteUrl": "http://www.oysterbaycommunityrowing.org/"
+  },
+  {
+    "name": "P10 Rowing",
+    "city": "Leesburg",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/P10_Rowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Pacific Rowing Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PacificRC.png",
+    "websiteUrl": "http://www.pacificrowingclub.org/"
+  },
+  {
+    "name": "Palm Beach Crew",
+    "city": "Palm Beach",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PalmBeachCrew.png",
+    "websiteUrl": "http://palmbeachcrew.com/"
+  },
+  {
+    "name": "Palm Beach Rowing Association",
+    "city": "Palm Beach",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PalmBeachRA.png",
+    "websiteUrl": "http://www.palmbeachrowing.org/"
+  },
+  {
+    "name": "Palm River Training Center",
+    "city": "Tampa",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/HBPlantHS_FL.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Palmetto Rowing Club",
+    "city": "Hilton Head Island",
+    "state": "SC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PalmettoRC.png",
+    "websiteUrl": "http://www.palmettorowingclub.com/"
+  },
+  {
+    "name": "Palouse Community Rowing",
+    "city": "Pullman",
+    "state": "WA &amp; Moscow",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PalouseCommunityRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Passaic River Rowing Association",
+    "city": "Kearny",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PassaicRiverRA.png",
+    "websiteUrl": "http://www.prra.org/"
+  },
+  {
+    "name": "Pelham Community Rowing Association",
+    "city": "New Rochelle",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PelhamCommunityRA.png",
+    "websiteUrl": "http://www.pelhamrowing.org/"
+  },
+  {
+    "name": "Penn Athletic Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PennAC.png",
+    "websiteUrl": "http://www.pennac.org/"
+  },
+  {
+    "name": "Pennsylvania Barge Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PennsylvaniaBargeClub.png",
+    "websiteUrl": "http://pennsylvaniabargeclub.com/"
+  },
+  {
+    "name": "Pensacola Rowing Club",
+    "city": "Pensacola",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PensacolaRC.png",
+    "websiteUrl": "https://www.pensacolarowing.org/"
+  },
+  {
+    "name": "Peters Township Rowing Club",
+    "city": "McMurray",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PetersTownshipRC.png",
+    "websiteUrl": "http://ptrowingclub.weebly.com/"
+  },
+  {
+    "name": "Pettipaug YC Rowing Club",
+    "city": "Essex",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PettipaugRC.png",
+    "websiteUrl": "http://www.pycrowing.com/"
+  },
+  {
+    "name": "Philadelphia Girls' Rowing Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PhiladelphiaGirls.png",
+    "websiteUrl": "http://www.boathouserow.org/clubs/pgrc.html"
+  },
+  {
+    "name": "Philadelphia Rowing Program for the Disabled",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PRPD.png",
+    "websiteUrl": "http://www.prpd.net/"
+  },
+  {
+    "name": "Piermont Rowing Club",
+    "city": "Piermont",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PiermontRC.png",
+    "websiteUrl": "http://www.piermontrowing.org/"
+  },
+  {
+    "name": "Pioneer Valley Riverfront Club",
+    "city": "Longmeadow",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PioneerValleyRC.png",
+    "websiteUrl": "http://www.pvrowing.org/"
+  },
+  {
+    "name": "Pittsburgh Rowing Club",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PittsburghRC.png",
+    "websiteUrl": "http://www.pittsburghrowingclub.com/"
+  },
+  {
+    "name": "Pocock Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PocockRowingCenter.png",
+    "websiteUrl": "https://www.pocockrowingcenter.org/"
+  },
+  {
+    "name": "Port Jefferson Rowing Club",
+    "city": "Port Jefferson",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortJeffersonRC.png",
+    "websiteUrl": "https://www.theportjeffersonrowingclub.com/"
+  },
+  {
+    "name": "Portage Lake Rowing Club",
+    "city": "Houghton",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortageLakeRC_MI.png",
+    "websiteUrl": "http://portagelakerowing.org/"
+  },
+  {
+    "name": "Portage Lakes Rowing Association",
+    "city": "Akron",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortageLakesRA.png",
+    "websiteUrl": "http://www.portagelakesrowing.com/"
+  },
+  {
+    "name": "Portland Boat Club",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortlandBC.png",
+    "websiteUrl": "http://www.aracnet.com/~aebigelo/"
+  },
+  {
+    "name": "Portland Community Rowing Association",
+    "city": "Portland",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortlandCommunityRA.png",
+    "websiteUrl": "http://www.rowportland.org/"
+  },
+  {
+    "name": "Portland Women's Rowing",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PortlandWomensRowing.png",
+    "websiteUrl": "http://www.portlandwomensrowing.org/"
+  },
+  {
+    "name": "Potomac Boat Club",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PotomacBC.png",
+    "websiteUrl": "http://www.potomacboatclub.org/"
+  },
+  {
+    "name": "Prairie Rowing",
+    "city": "Redwood Shores",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PrairieRowing.png",
+    "websiteUrl": "http://www.prairierowing.com/"
+  },
+  {
+    "name": "Prince William Rowing Club",
+    "city": "Woodbridge",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/PrinceWilliamRC.png",
+    "websiteUrl": "http://www.pwrc.org/"
+  },
+  {
+    "name": "Pushaw Lake Rowing Club",
+    "city": "Orono",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Black.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Putney Rowing Club",
+    "city": "Putney",
+    "state": "VT",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Yellow.png",
+    "websiteUrl": "https://sites.google.com/site/putneyrowingclubsite/"
+  },
+  {
+    "name": "Queen City Rowing Club",
+    "city": "Cincinnati",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/QueenCityRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Quinsigamond Rowing Club",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/QuinsigamondRA.png",
+    "websiteUrl": "http://www.qrcrowing.org/"
+  },
+  {
+    "name": "Quogue Fire Department Boat Club",
+    "city": "Quogue",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/QuogueFDBoatClub.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Rainier Beach Rowing Association",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RainierBeachRA.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Rainier Rowing Club",
+    "city": "Tacoma",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RainierRC.png",
+    "websiteUrl": "http://www.rainierrowing.org/"
+  },
+  {
+    "name": "Raleigh Rowing Center",
+    "city": "Raleigh",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RaleighRC.png",
+    "websiteUrl": "http://www.raleighrowing.org/"
+  },
+  {
+    "name": "Rat Island Rowing",
+    "city": "Port Townsend",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RatIsland_macon.png",
+    "websiteUrl": "http://ratislandrowing.com/"
+  },
+  {
+    "name": "RDU Crew",
+    "city": "Cary",
+    "state": "NC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RDUCrew.png",
+    "websiteUrl": "http://www.rducrew.org/"
+  },
+  {
+    "name": "REACH - Gryphon Crew",
+    "city": "Knoxville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/REACH_GryphonCrew.png",
+    "websiteUrl": "https://reachrowing.org/"
+  },
+  {
+    "name": "Recovery on Lake Leelanau",
+    "city": "Lake Leelanau",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Breast_Pink.png",
+    "websiteUrl": "https://www.l2row.com/programs/group-rowing/recovery-on-lake-leelanau/"
+  },
+  {
+    "name": "Recovery on Water",
+    "city": "Chicago",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RecoveryonWater.png",
+    "websiteUrl": "http://recoveryonwater.org/"
+  },
+  {
+    "name": "Redding YMCA Rowing Club",
+    "city": "Redding",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ReddingYMCA_RC.png",
+    "websiteUrl": "http://www.sfymca.org/"
+  },
+  {
+    "name": "Renton Rowing Center",
+    "city": "Renton",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RentonRowingCenter.png",
+    "websiteUrl": "http://www.rentonrowingcenter.org/"
+  },
+  {
+    "name": "Resilient Rowing Club",
+    "city": "Fairfax",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ResilientRC.png",
+    "websiteUrl": "http://www.resilientrowing.com/"
+  },
+  {
+    "name": "Richmond Community Rowing",
+    "city": "Richmond",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Orange.png",
+    "websiteUrl": "https://www.facebook.com/rowrva/"
+  },
+  {
+    "name": "Riddle Point Rowing Association",
+    "city": "Bloomington",
+    "state": "IN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RiddlePointRA.png",
+    "websiteUrl": "http://www.riddlepointrowing.org/"
+  },
+  {
+    "name": "Rio Salado Rowing Club",
+    "city": "Tempe",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.riosaladorowing.info/"
+  },
+  {
+    "name": "Rivanna Rowing Club",
+    "city": "Charlottesville",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RivannaRC.png",
+    "websiteUrl": "http://www.rivannarowing.org/"
+  },
+  {
+    "name": "River City Rowing Club",
+    "city": "West Sacramento",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RiverCityRC.png",
+    "websiteUrl": "http://www.rivercityrowing.org/"
+  },
+  {
+    "name": "Riverfront Recapture, Inc.",
+    "city": "Hartford",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RiverfrontRecapture.png",
+    "websiteUrl": "http://www.riverfront.org/"
+  },
+  {
+    "name": "Riverside Boat Club",
+    "city": "Cambridge",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Riverside.png",
+    "websiteUrl": "http://www.riversideboatclub.com/"
+  },
+  {
+    "name": "Rochester Boat Club",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RochesterBC_NY.png",
+    "websiteUrl": "http://rochesterboatclub.org/"
+  },
+  {
+    "name": "Rochester Community Inclusive Rowing",
+    "city": "Rochester",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RochesterCommunityInclusiveRowing.png",
+    "websiteUrl": "http://www.rochestercommunityrowing.org/"
+  },
+  {
+    "name": "Rochester Rowing Club",
+    "city": "Rochester",
+    "state": "MN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RochesterRC_MN.png",
+    "websiteUrl": "http://www.rrcmn.com/"
+  },
+  {
+    "name": "RRB Rowing Club",
+    "city": "Kenilworth",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RRBRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Rock Creek Rowing",
+    "city": "Washington",
+    "state": "D.C.",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TBCCommunityRowing.png",
+    "websiteUrl": "http://rockcreekrowing.org/"
+  },
+  {
+    "name": "Rock City Rowing | Little Rock Athletic Club",
+    "city": "Little Rock",
+    "state": "AR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ArkansasBoathouseClub.png",
+    "websiteUrl": "https://rowarkansas.org/"
+  },
+  {
+    "name": "Rock n Row",
+    "city": "Marblehead",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RocknRow.png",
+    "websiteUrl": "http://www.rocknrow.org/"
+  },
+  {
+    "name": "Rocket City Rowing Club",
+    "city": "Huntsville",
+    "state": "AL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RocketCityRC.png",
+    "websiteUrl": "http://www.rocketcityrowing.com/"
+  },
+  {
+    "name": "Rockford YMCA Rowing Club",
+    "city": "Rockford",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RockfordYMCA.png",
+    "websiteUrl": "http://www.rockfordymca.org/"
+  },
+  {
+    "name": "Rockland Rowing Association",
+    "city": "Nyack",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RocklandRA.png",
+    "websiteUrl": "https://www.rocklandrowing.org/"
+  },
+  {
+    "name": "Rocky Mountain Rowing Club",
+    "city": "Denver",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RockyMountainRC.png",
+    "websiteUrl": "http://www.rockymountainrowing.com/"
+  },
+  {
+    "name": "Rogue Rowing",
+    "city": "Ashland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RogueRowing.png",
+    "websiteUrl": "http://www.roguerowing.org/"
+  },
+  {
+    "name": "Rogue Wave",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RogueWave.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Rondout Rowing Club",
+    "city": "Kingston",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RondoutRC.png",
+    "websiteUrl": "http://www.rondoutrowingclub.org/"
+  },
+  {
+    "name": "RowAmerica Boston",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "http://rowamericaboston.com/"
+  },
+  {
+    "name": "RowAmerica Greenwich",
+    "city": "Greenwich",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "http://rowamericagreenwich.com/"
+  },
+  {
+    "name": "RowAmerica Knoxville",
+    "city": "Knoxville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "http://rowknoxville.com/"
+  },
+  {
+    "name": "RowAmerica Manchester",
+    "city": "Manchester",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "https://www.facebook.com/pages/RowAmerica-Manchester/1470688986545501"
+  },
+  {
+    "name": "RowAmerica North Little Rock",
+    "city": "North Little Rock",
+    "state": "AR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "RowAmerica Rye",
+    "city": "Rye",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "http://rowamericarye.com/"
+  },
+  {
+    "name": "RowAmerica St.Charles",
+    "city": "St.Charles",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowAmerica.png",
+    "websiteUrl": "http://www.rowstcharles.com/"
+  },
+  {
+    "name": "Row Brevard",
+    "city": "Melbourne",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowBrevard.png",
+    "websiteUrl": "http://rowbrevard.com/"
+  },
+  {
+    "name": "Row Georgia",
+    "city": "Peachtree City",
+    "state": "GA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowGeorgia.png",
+    "websiteUrl": "https://peachtree-city-rowing-club.myshopify.com/"
+  },
+  {
+    "name": "Row Miami",
+    "city": "Miami",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowMiami.png",
+    "websiteUrl": "http://www.rowmiami.com/"
+  },
+  {
+    "name": "Row New Jersey",
+    "city": "Mt. Arlington",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowNewJersey.png",
+    "websiteUrl": "https://www.rownewjersey.org/"
+  },
+  {
+    "name": "Rowing Association of Naples ",
+    "city": "Naples",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RANaples.png",
+    "websiteUrl": "http://www.naplesrowing.com/"
+  },
+  {
+    "name": "Rowing Club of Northwest Arkansas",
+    "city": "Fayetteville",
+    "state": "AR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RCNWArkansas.png",
+    "websiteUrl": "http://www.rowingclubnwa.org/"
+  },
+  {
+    "name": "Rowing Club of The Woodlands",
+    "city": "Lake Woodlands",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/RCWoodlands.png",
+    "websiteUrl": "http://www.woodlandsrowing.org/"
+  },
+  {
+    "name": "Rowing Dock",
+    "city": "Austin",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowingDock.png",
+    "websiteUrl": "http://www.rowingdock.com/"
+  },
+  {
+    "name": "Rowing on Whidbey",
+    "city": "Oak Harbor",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/RowingWhidbey.png",
+    "websiteUrl": "http://rowonwhidbey.org/"
+  },
+  {
+    "name": "S &amp; M Rowing",
+    "city": "Jacksonville",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SandMRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Sacramento State Aquatic Center Rowing Club",
+    "city": "Gold River",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SacStateACRC.png",
+    "websiteUrl": "http://www.csusaquaticcenter.com/Body_rowingCompetitive.asp"
+  },
+  {
+    "name": "Sag Harbor Community Rowing",
+    "city": "Sag Harbor",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Black.png",
+    "websiteUrl": "http://www.rowsagharbor.org/"
+  },
+  {
+    "name": "Sagamore Rowing Association",
+    "city": "Oyster Bay &amp; Huntington",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SagamoreRA_NY.png",
+    "websiteUrl": "http://www.sagamorerowing.org/"
+  },
+  {
+    "name": "St. Croix Rowing Club",
+    "city": "Hudson",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StCroixRC.png",
+    "websiteUrl": "http://stcroixrowing.wikispaces.com/"
+  },
+  {
+    "name": "St. Louis Rowing Club",
+    "city": "St. Louis",
+    "state": "MO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StLouisRC.png",
+    "websiteUrl": "http://www.stlouisrowingclub.com/"
+  },
+  {
+    "name": "Salem Rowing Club",
+    "city": "Independence",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SalemRC.png",
+    "websiteUrl": "http://www.salemrowing.org/"
+  },
+  {
+    "name": "Salt River Project",
+    "city": "Tempe",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SaltRiverProject.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Sammamish Rowing Association",
+    "city": "Redmond",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SammamishRA.png",
+    "websiteUrl": "https://www.sammamishrowing.org/"
+  },
+  {
+    "name": "San Diego Rowing Club",
+    "city": "San Diego",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SanDiegoRC.png",
+    "websiteUrl": "http://www.sandiegorowing.org/"
+  },
+  {
+    "name": "San Francisco Bay Blades",
+    "city": "Oakland",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/LakeMerrittRC.png",
+    "websiteUrl": "http://www.sfbayblades.com/"
+  },
+  {
+    "name": "San Francisco Rowing Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SanFranciscoRC.png",
+    "websiteUrl": "http://www.sfrowingclub.com/"
+  },
+  {
+    "name": "San Luis Obispo Rowing Club (Average Joes)",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SLORC.png",
+    "websiteUrl": "http://slorowingclub.com/"
+  },
+  {
+    "name": "Sandusky Bay Rowing Association",
+    "city": "Sandusky",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SanduskyBayRA.png",
+    "websiteUrl": "http://rowsanduskybay.org/"
+  },
+  {
+    "name": "Sandy Run Scullers",
+    "city": "Fairfax Station",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SandyRunScullers.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Sarasota County Rowing Club",
+    "city": "Sarasota",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SarasotaCountyRC.png",
+    "websiteUrl": "http://www.sarasotarowing.com/"
+  },
+  {
+    "name": "Sarasota Rowing Center",
+    "city": "Sarasota",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SarasotaRowingCenter.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Saratoga Rowing Association",
+    "city": "Saratoga",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SaratogaRA.png",
+    "websiteUrl": "http://www.saratogarowing.com/"
+  },
+  {
+    "name": "Saratoga Springs Rowing Club",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SaratogaSpringsRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Saugatuck Rowing Club",
+    "city": "Westport",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Black.png",
+    "websiteUrl": "http://www.saugatuckrowing.com/"
+  },
+  {
+    "name": "Schrade's Sculling School",
+    "city": "Canton",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SchradesScullingSchool.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Schuylkill Navy of Philadelphia",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SchuylkillNavy.png",
+    "websiteUrl": "http://www.boathouserow.org/"
+  },
+  {
+    "name": "The Screw Crew",
+    "city": "Pensacola",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ScrewCrew.png",
+    "websiteUrl": "https://www.facebook.com/groups/635811969882513/"
+  },
+  {
+    "name": "Seattle Area Rowing Association",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/White.png",
+    "websiteUrl": "http://www.seattlearearowing.org/"
+  },
+  {
+    "name": "Seattle Scullers",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SeattleScullers.png",
+    "websiteUrl": "https://www.longtermrowerdevelopment.com/"
+  },
+  {
+    "name": "Shasta Rowing Association",
+    "city": "Redding",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ShastaRA.png",
+    "websiteUrl": "https://www.shastarowing.org/"
+  },
+  {
+    "name": "Shelter Island Boat Club",
+    "city": "Shelter Island",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ShelterIslandBC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Skidmore Community Rowing",
+    "city": "Saratoga Springs",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://cms.skidmore.edu/odsp/programs/camps/summer_sports/rowing.cfm"
+  },
+  {
+    "name": "Slack Tide Rowers",
+    "city": "Haverhill",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SlackTideRowers.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "SLO Rowing Club",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SLORC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Smoky Mountain Rowing Club",
+    "city": "Maryville",
+    "state": "TN",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Black.png",
+    "websiteUrl": "http://www.rowsmoky.com/"
+  },
+  {
+    "name": "SOFA King CrossFit",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SofaKingCF.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "SoNo Rowing",
+    "city": "Norwalk",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SoNoRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "South Bend Community Rowing",
+    "city": "South Bend",
+    "state": "IN",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SouthBendCommunityRowing.png",
+    "websiteUrl": "https://sbcrowing.wordpress.com/"
+  },
+  {
+    "name": "South End Rowing Club",
+    "city": "San Francisco",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SouthEndRC.png",
+    "websiteUrl": "http://www.south-end.org/"
+  },
+  {
+    "name": "South Puget Sound Rowing Club",
+    "city": "DuPont",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SouthPugetSoundRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Southern California Scullers",
+    "city": "Huntington Beach",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "https://www.facebook.com/SoCalScullers"
+  },
+  {
+    "name": "Southern Maryland Rowing Association<i> - St. Mary's City, MD</i>",
+    "city": "",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SouthernMarylandRA.png",
+    "websiteUrl": "https://www.somdrowingassoc.com/"
+  },
+  {
+    "name": "(CWRU Alumni)",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SARA.png",
+    "websiteUrl": "http://www.spartanalumnirowing.org/"
+  },
+  {
+    "name": "Spokane River Rowing Association",
+    "city": "Spokane",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.spokanerowing.org/"
+  },
+  {
+    "name": "Sportable",
+    "city": "Richmond",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Sportable.png",
+    "websiteUrl": "http://sportable.org/sports/rowing/"
+  },
+  {
+    "name": "Spy Coast Rowing",
+    "city": "St James",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SpyCoastRowing.png",
+    "websiteUrl": "https://www.spycoastrowing.com/"
+  },
+  {
+    "name": "Susquehanna Rowing Association",
+    "city": "Lewisberry",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SusquehannaRA.png",
+    "websiteUrl": "http://susrowing.com/"
+  },
+  {
+    "name": "STAR Rowing Center",
+    "city": "Derby",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/STAR_RC.png",
+    "websiteUrl": "https://starrowingcenter.com/"
+  },
+  {
+    "name": "Station L Rowing Club",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StationLRC.png",
+    "websiteUrl": "http://www.stationlrowingclub.com/"
+  },
+  {
+    "name": "Steel City Rowing Club",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SteelCityRC.png",
+    "websiteUrl": "http://www.steelcityrowing.org/"
+  },
+  {
+    "name": "SteeringUWright - Endeavor Racing Group (ERG)",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SteeringUWright_ERG.png",
+    "websiteUrl": "https://www.steeringuwright.com/"
+  },
+  {
+    "name": "The Stewards Foundation",
+    "city": "Tampa",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/StewardsFoundation.png",
+    "websiteUrl": "http://www.rowtampa.com/"
+  },
+  {
+    "name": "Stockton Rowing Club",
+    "city": "Stockton",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StocktonRC.png",
+    "websiteUrl": "http://stocktonrowing.com/"
+  },
+  {
+    "name": "Stonewall Rowing Club",
+    "city": "Stephenson",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StonewallRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Stonington Community Rowing, Inc.",
+    "city": "Stonington",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/StoningtonHS_CT.png",
+    "websiteUrl": "https://stoningtoncommunityrowing.org/"
+  },
+  {
+    "name": "Sturgeon Bay Rowing Club",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SturgeonBayRC.png",
+    "websiteUrl": "http://www.sbrow.com/"
+  },
+  {
+    "name": "Style Driven Rowing Club",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/StyleDrivenRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Super Hot in Tight Spandex Rowing Club",
+    "city": "Fairport",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SuperHotinTightSpandexRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Swan Creek Rowing Club",
+    "city": "Lambertville",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SwanCreekRC.png",
+    "websiteUrl": "http://www.swancreekrowing.com/"
+  },
+  {
+    "name": "Sweeps &amp; Sculls Rowing",
+    "city": "Wauconda",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SweepsScullsRowing.png",
+    "websiteUrl": "http://www.sweepsandsculls.org/"
+  },
+  {
+    "name": "Sylvan Scullers",
+    "city": "Verona",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SylvanScullers.png",
+    "websiteUrl": "https://www.facebook.com/SylvanScullers/"
+  },
+  {
+    "name": "Syracuse Chargers Rowing Club",
+    "city": "Syracuse",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/SyracuseChargersRC.png",
+    "websiteUrl": "http://www.chargersrow.org/"
+  },
+  {
+    "name": "Table Mountain Rowing Club",
+    "city": "Chico",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TableMountainRC.png",
+    "websiteUrl": "https://www.facebook.com/TableMountainRowingClub/"
+  },
+  {
+    "name": "Tacoma Rowing",
+    "city": "Tacoma",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TacomaRowing.png",
+    "websiteUrl": "https://www.tacomarowing.org/"
+  },
+  {
+    "name": "Tallahassee Rowing Club",
+    "city": "Tallahassee",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TallahasseeRC.png",
+    "websiteUrl": "http://tallahasseerowing.org/"
+  },
+  {
+    "name": "Tampa Athletic Club",
+    "city": "Tampa",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://rowtac.org/"
+  },
+  {
+    "name": "Tampa Rowing Club",
+    "city": "Tampa",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TampaRC.png",
+    "websiteUrl": "http://tamparowingclub.org/"
+  },
+  {
+    "name": "Tampa Training Center",
+    "city": "Tampa",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TampaTrainingCenter.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Team Row",
+    "city": "Coral Gables",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TeamRow.png",
+    "websiteUrl": "http://www.teamrow.org/"
+  },
+  {
+    "name": "Teaneck Rowing Club",
+    "city": "Teaneck",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/TeaneckHS_NJ.png",
+    "websiteUrl": "http://www.teaneckrowingclub.org/"
+  },
+  {
+    "name": "Telluride Rowing Club",
+    "city": "Telluride",
+    "state": "CO",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TellurideRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Tempe Scullers",
+    "city": "Tempe",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TempeScullers.png",
+    "websiteUrl": "https://www.facebook.com/tempescullers/"
+  },
+  {
+    "name": "Tempe Town Lake Rowing",
+    "city": "Tempe",
+    "state": "AZ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TempeTownLakeRowing.png",
+    "websiteUrl": "http://www.tempe.gov/boating/"
+  },
+  {
+    "name": "Texas Rowing Center",
+    "city": "Austin",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TexasRC.png",
+    "websiteUrl": "http://www.texasrowingcenter.com/"
+  },
+  {
+    "name": "Thompson Boat Center",
+    "city": "Washington",
+    "state": "D.C.",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ThompsonBC.png",
+    "websiteUrl": "http://www.thompsonboatcenter.com/"
+  },
+  {
+    "name": "Three Rivers Rowing Association",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/pointer.jpg",
+    "websiteUrl": "http://www.threeriversrowing.org/"
+  },
+  {
+    "name": "Toledo Rowing Club",
+    "city": "Toledo",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ToledoRC.png",
+    "websiteUrl": "http://www.toledorowing.org/"
+  },
+  {
+    "name": "Topeka Rowing Association",
+    "city": "Topeka",
+    "state": "KS",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TopekaRA.png",
+    "websiteUrl": "http://www.topekarowing.com/"
+  },
+  {
+    "name": "Traverse Area Community Rowing",
+    "city": "Traverse City",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TraverseAreaCommunityRowing.png",
+    "websiteUrl": "http://tacrowing.org/"
+  },
+  {
+    "name": "Treasure Coast Rowing Club",
+    "city": "Palm City",
+    "state": "FL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TreasureCoastRC.png",
+    "websiteUrl": "http://www.treasurecoastrowingclub.org/"
+  },
+  {
+    "name": "Tuf As Nails (PT Crewsers)",
+    "city": "Port Townsend",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TufAsNails.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Tulsa Rowing Club",
+    "city": "Tulsa",
+    "state": "OK",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TulsaRC.png",
+    "websiteUrl": "http://www.tulsarowing.org/"
+  },
+  {
+    "name": "Turning Point Rowing Club",
+    "city": "Schuylerville",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TurningPointRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Turtleherd Rowing Club",
+    "city": "Huntington",
+    "state": "VT",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Red.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Twin Donut Rowing Club",
+    "city": "Menlo Park",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/TwinDonutRC.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Under the Bridge Rowing Club",
+    "city": "Petersburg",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UndertheBridgeRC.png",
+    "websiteUrl": "https://www.facebook.com/Under-the-Bridge-Rowing-Club-691916287657874/"
+  },
+  {
+    "name": "Undine Barge Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Undine.png",
+    "websiteUrl": "http://www.undine.com/"
+  },
+  {
+    "name": "Union Bay Rowing Club",
+    "city": "Seattle",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UnionBayRC.png",
+    "websiteUrl": "http://students.washington.edu/ubrc/"
+  },
+  {
+    "name": "Union Boat Club",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UnionBC.png",
+    "websiteUrl": "http://www.unionboatclub.org/"
+  },
+  {
+    "name": "United States Marine Corps Rowing Club - Henderson Hall",
+    "city": "Washington",
+    "state": "D.C.",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/USMC.png",
+    "websiteUrl": "http://usmcrowing.vox.com/"
+  },
+  {
+    "name": "University Barge Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UniversityBC.png",
+    "websiteUrl": "http://www.universitybargeclub.com/"
+  },
+  {
+    "name": "Upper Merion Boat Club",
+    "city": "Bridgeport",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UpperMerionBC.png",
+    "websiteUrl": "http://www.uppermerionboatclub.com/"
+  },
+  {
+    "name": "Upper Peninsula Community Rowing Club",
+    "city": "Marquette",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Yellow.png",
+    "websiteUrl": "http://www.uprowing.com/"
+  },
+  {
+    "name": "Upper Valley Rowing Foundation",
+    "city": "Hanover",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/UpperValleyRF.png",
+    "websiteUrl": "http://www.uppervalleyrowing.org/"
+  },
+  {
+    "name": "U.S. Veterans' Rowing &amp; Kayaking",
+    "city": "Trumbull",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VeteransRowingKayaking.png",
+    "websiteUrl": "http://www.veteransrowing.com/"
+  },
+  {
+    "name": "Vancouver Lake Crew",
+    "city": "Vancouver",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/HS/VancouverLakeCrew.png",
+    "websiteUrl": "http://www.vancouverlakecrew.com/"
+  },
+  {
+    "name": "Vashon Island Rowing Club",
+    "city": "Vashion Island",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VashonIslandRC.png",
+    "websiteUrl": "http://vashonrowing.org/"
+  },
+  {
+    "name": "Vesper Boat Club",
+    "city": "Philadelphia",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Vesper.png",
+    "websiteUrl": "http://www.vesperboatclub.org/"
+  },
+  {
+    "name": "Viking Rowing Club",
+    "city": "Ventnor",
+    "state": "NJ",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VikingRC.png",
+    "websiteUrl": "http://www.vikingrowingclub.com/"
+  },
+  {
+    "name": "Vikings of Yore (Western Washington Alum)",
+    "city": "Bellingham",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VikingsofYore.png",
+    "websiteUrl": "http://www.wwucrew.com/alumni-association/"
+  },
+  {
+    "name": "Virginia Beach Rowing Club",
+    "city": "Norfolk",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VirginiaBeachRC.png",
+    "websiteUrl": "http://www.virginiabeachrowingclub.org/"
+  },
+  {
+    "name": "Virginia Boat Club",
+    "city": "Richmond",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/VirginiaBC.png",
+    "websiteUrl": "http://www.virginiaboatclub.org/"
+  },
+  {
+    "name": "Vsculls",
+    "city": "Cos Cob",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/Vsculls.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Warthogs Rowing Club",
+    "city": "Old Lyme",
+    "state": "CT",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WarthogsRC.png",
+    "websiteUrl": "http://warthogsrowingclub.org/"
+  },
+  {
+    "name": "Washington Rowing School",
+    "city": "Bladensburg",
+    "state": "MD",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Gold_Yellow.png",
+    "websiteUrl": "http://www.washingtonrowingschool.com/"
+  },
+  {
+    "name": "Waterloo Rowing Club",
+    "city": "Waterloo",
+    "state": "IA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WaterlooRC.png",
+    "websiteUrl": "http://waterloorowclub.wix.com/waterloorowingclub"
+  },
+  {
+    "name": "Watuppa Rowing Center",
+    "city": "Fall River",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/Solid/Yellow.png",
+    "websiteUrl": "https://www.watupparowingcenter.org/"
+  },
+  {
+    "name": "WeCanRow Boston",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WeCanRowBoston.png",
+    "websiteUrl": "http://wecanrowboston.org/"
+  },
+  {
+    "name": "WeCanRow DC",
+    "city": "Washington",
+    "state": "DC",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WeCanRowDC.png",
+    "websiteUrl": "http://www.wecanrowdc.org/"
+  },
+  {
+    "name": "Wenatchee Row &amp; Paddle Club",
+    "city": "Wenatchee",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WenatcheeRPC.png",
+    "websiteUrl": "http://www.wenatcheepaddle.org/"
+  },
+  {
+    "name": "West Cambridge Rowing",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WestCambridgeRowing.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "West Lake Rowing Club",
+    "city": "Cazenovia",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WestLakeRC_NY.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "West Side Rowing Club",
+    "city": "Buffalo",
+    "state": "NY",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WestSideRC.png",
+    "websiteUrl": "http://www.wsrc.org/"
+  },
+  {
+    "name": "Western Reserve Rowing Association",
+    "city": "Cleveland",
+    "state": "OH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WRRA.png",
+    "websiteUrl": "http://www.wrra.cc/"
+  },
+  {
+    "name": "Westford Community Rowing",
+    "city": "Westford",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WestfordCommunityRowing.png",
+    "websiteUrl": "http://www.westfordrowing.com/"
+  },
+  {
+    "name": "Whatcom Rowing Association",
+    "city": "Bellingham",
+    "state": "WA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WhatcomRA.png",
+    "websiteUrl": "http://whatcomrowing.org/"
+  },
+  {
+    "name": "White Rock Rowing",
+    "city": "Dallas",
+    "state": "TX",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WhiteRockRowing.png",
+    "websiteUrl": "http://whiterockrowing.org/"
+  },
+  {
+    "name": "Whitemarsh Boat Club",
+    "city": "Conshohocken",
+    "state": "PA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WhitemarshBC.png",
+    "websiteUrl": "http://www.whitemarshboatclub.org/"
+  },
+  {
+    "name": "Wichita Rowing Association",
+    "city": "Wichita",
+    "state": "KS",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WichitaRA.png",
+    "websiteUrl": "https://wichitarowing.org/"
+  },
+  {
+    "name": "Wide Load Boat Club (Boston U Alumni)",
+    "city": "Boston",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Uni/BostonU.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Willamette Rowing Club",
+    "city": "Portland",
+    "state": "OR",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WillametteRC.png",
+    "websiteUrl": "http://willametterowing.org/"
+  },
+  {
+    "name": "Williamsburg Boat Club",
+    "city": "Williamsburg",
+    "state": "VA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WilliamsburgBC.png",
+    "websiteUrl": "http://www.williamsburgboatclub.org/"
+  },
+  {
+    "name": "Wilmington Rowing Center",
+    "city": "Wilmington",
+    "state": "DE",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WilmingtonRC.png",
+    "websiteUrl": "http://www.wilmingtonrowing.org/"
+  },
+  {
+    "name": "Winnebago Sculling Club",
+    "city": "Lawrence",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WinnebagoScullingClub.png",
+    "websiteUrl": ""
+  },
+  {
+    "name": "Winnipesaukee Rowing Club",
+    "city": "Meredith",
+    "state": "NH",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WinnipesaukeeRC.png",
+    "websiteUrl": "http://www.winnirowing.org/"
+  },
+  {
+    "name": "Worcester Boat Club",
+    "city": "Worcester",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WorcesterBC.png",
+    "websiteUrl": "http://www.worcesterboatclub.com/"
+  },
+  {
+    "name": "Wyandotte Boat Club",
+    "city": "Wyandotte",
+    "state": "MI",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/WyandotteBC.png",
+    "websiteUrl": "http://www.wyandotteboatclub.com/"
+  },
+  {
+    "name": "Y Quad Cities Rowing",
+    "city": "Moline",
+    "state": "IL",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/QuadCity.png",
+    "websiteUrl": "http://qcra.rowing.googlepages.com/"
+  },
+  {
+    "name": "Yankee Rowing Club",
+    "city": "Hadley",
+    "state": "MA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/YankeeRC.png",
+    "websiteUrl": "http://www.yankeerowing.org/"
+  },
+  {
+    "name": "Yarmouth Rowing Club",
+    "city": "Yarmouth",
+    "state": "ME",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/YarmouthRC.png",
+    "websiteUrl": "http://www.yarmouth-rowing.org/"
+  },
+  {
+    "name": "ZLAC Rowing Club",
+    "city": "San Diego",
+    "state": "CA",
+    "imgUrl": "http://www.oarspotter.com/blades/USA/Club/ZLAC.png",
+    "websiteUrl": "http://www.zlac.org/"
+  }
+]
