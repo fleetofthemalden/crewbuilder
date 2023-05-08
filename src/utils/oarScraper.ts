@@ -1,7 +1,21 @@
 const $ = require('jquery');
 
+type ClubLocation = {
+  city: string;
+  state?: string;
+  country: string;
+  universityAffiliation?: 'Cambridge' | 'Oxford';
+}
+
+type ClubData = {
+  name: string;
+  location: ClubLocation;
+  imgUrl: string;
+  websiteUrl: string;
+}
+
 let scrapeyScrape = () => {
-  let clubs = [];
+  let clubs: ClubData[] = [];
   const rows = [...$('tbody:first tr > td')];
   rows.forEach(row => {
     let name = '';
@@ -33,8 +47,11 @@ let scrapeyScrape = () => {
     const cityStateArr = clubLocation.split(',');
     const clubData = {
       name,
-      city: cityStateArr[0].replace('-', '').trim(),
-      state: cityStateArr[1] && cityStateArr[1].trim(),
+      location: {
+        city: cityStateArr[0].replace('-', '').trim(),
+        state: cityStateArr[1] && cityStateArr[1].trim(),
+        country: 'United States',
+      },
       imgUrl,
       websiteUrl,
     };
