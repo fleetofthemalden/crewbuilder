@@ -103,7 +103,7 @@ interface ExpandMoreProps extends IconButtonProps {
 }
 
 const ExpandMore = muiStyled((props: ExpandMoreProps) => {
-  const { expand, ...other } = props;
+  const { expand, ...other } = props; // eslint-disable-line ('expand' unused)
   return <IconButton {...other} />;
 })(({ theme, expand }) => ({
   transform: !expand ? 'rotate(0deg)' : 'rotate(180deg)',

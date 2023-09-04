@@ -1,6 +1,5 @@
-
 import { DateTime } from 'luxon';
-import { Athlete, SweepPreference } from 'types/athlete';
+import { Athlete } from 'types/athlete';
 
 export const getRowingAge = (dob: Athlete['dob']) => {
   const thisYear = DateTime.now().year;
@@ -46,4 +45,9 @@ export const getRowingAgeClassification = (rowingAge: number) => {
     return 'K';
   }
   return '?'
+};
+
+export const isLightWeight = (benchmarks: Athlete['benchmarks'], sex: Athlete['sex'], lightweightCutoff?: number) => {
+  const lwCutoff = lightweightCutoff || (sex === 'F' ? 130 : 160);
+  const weight = benchmarks.find(bm => bm.weight);
 };

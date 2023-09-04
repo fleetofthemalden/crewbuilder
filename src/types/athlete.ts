@@ -12,9 +12,16 @@ export type Athlete = {
   benchmarks: Benchmark[];
 };
 
-export type Benchmark = {
-  time: number;
-  distance: number;
+type BenchmarkBasics = {
+  date: string;
   benchmarkId: string;
+};
+interface BenchmarkWeight extends BenchmarkBasics {
   weight: number;
 }
+interface BenchmarkTest extends BenchmarkBasics {
+  time: number;
+  distance: number;
+}
+
+export type Benchmark = BenchmarkWeight | BenchmarkTest | (BenchmarkTest & BenchmarkWeight);
